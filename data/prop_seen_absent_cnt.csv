@@ -1,0 +1,8 @@
+ingest_name,prop_name,present_cnt,absent_cnt
+pubtator,publications,10890003,0
+semmeddb,publications,1724481,0
+signor,publications,43631,0
+tmkp,publications,1485506,0
+goa,has_evidence_of_type,2135407,0
+hpoa,has_evidence_of_type,262360,335637
+gene2phenotype,gene2phenotype_confidence_category,3102,0

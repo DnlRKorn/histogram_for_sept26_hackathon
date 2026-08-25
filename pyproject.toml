@@ -1,0 +1,55 @@
+[project]
+name = "histogram_for_sept26_hackathon"
+version = "0.0.0"
+description = "Checks the predicates from biolink data translator."
+requires-python = ">=3.13,<4"
+authors = [
+    { name="Daniel Korn", email="daniel_korn@med.unc.edu"}
+]
+readme = "README.md"
+license = "BSD-3-Clause"
+
+dependencies = [
+    "jupyter",
+    "kgxval",
+    "dotenv",
+    "matplotlib",
+    "pyarrow",
+]
+
+[tool.uv]
+#default-groups = ["dev"]
+package = true
+
+
+[tool.pytest.ini_options]
+pythonpath = "src"
+
+[tool.ruff]
+line-length = 120
+lint.extend-ignore = [
+
+]
+lint.exclude = []
+# Allow autofix for all enabled rules (when `--fix`) is provided.
+lint.fixable = ["ALL"]
+# Select or ignore from https://beta.ruff.rs/docs/rules/
+lint.select = [
+    "B",  # bugbear
+    "D",  # pydocstyle
+    "E",  # pycodestyle errors
+    "F",  # Pyflakes
+    "I",  # isort 
+    "S",  # flake8-bandit
+    "W",  # Warning
+    "ARG",
+    "C90",
+]
+
+lint.unfixable = []
+target-version = "py310"
+
+lint.mccabe.max-complexity = 10
+
+[tool.uv.sources]
+kgxval = { git = "https://github.com/monarch-initiative/kgxval" }
