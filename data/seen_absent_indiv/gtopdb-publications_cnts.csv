@@ -1,0 +1,5 @@
+spqo,present_cnt,absent_cnt
+"('chemical entity', 'affects', 'causes', 'gene or gene product')",15650,1887
+"('chemical entity', 'affects', 'n/a', 'gene or gene product')",423,212
+"('chemical entity', 'directly physically interacts with', 'n/a', 'gene or gene product')",15740,2003
+"('chemical entity', 'related to', 'n/a', 'gene or gene product')",70,57

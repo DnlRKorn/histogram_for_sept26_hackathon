@@ -1,0 +1,43 @@
+spqo,present_cnt,absent_cnt
+"('cellular component', 'acts upstream of', 'n/a', 'cellular component')",3,0
+"('cellular component', 'acts upstream of', 'n/a', 'gene or gene product')",11,2
+"('cellular component', 'acts upstream of negative effect', 'n/a', 'gene or gene product')",1,0
+"('cellular component', 'causes', 'n/a', 'cellular component')",3,2
+"('cellular component', 'causes', 'n/a', 'gene or gene product')",6,5
+"('cellular component', 'has part', 'n/a', 'cellular component')",1,0
+"('cellular component', 'is input of', 'n/a', 'cellular component')",0,1
+"('cellular component', 'is input of', 'n/a', 'gene or gene product')",13,13
+"('cellular component', 'part of', 'n/a', 'cellular component')",0,1
+"('cellular component', 'precedes', 'n/a', 'cellular component')",0,1
+"('cellular component', 'regulates', 'n/a', 'cellular component')",20,10
+"('cellular component', 'regulates', 'n/a', 'gene or gene product')",77,8
+"('cellular component', 'related to', 'n/a', 'cellular component')",1,0
+"('chemical entity', 'acts upstream of', 'n/a', 'gene or gene product')",0,1
+"('chemical entity', 'has part', 'n/a', 'chemical entity')",0,4
+"('chemical entity', 'is input of', 'n/a', 'gene or gene product')",0,1
+"('chemical entity', 'precedes', 'n/a', 'gene or gene product')",0,1
+"('chemical entity', 'regulates', 'n/a', 'chemical entity')",0,1
+"('chemical entity', 'regulates', 'n/a', 'gene or gene product')",6,0
+"('gene or gene product', 'acts upstream of', 'n/a', 'cellular component')",9,6
+"('gene or gene product', 'acts upstream of', 'n/a', 'gene or gene product')",121,63
+"('gene or gene product', 'acts upstream of negative effect', 'n/a', 'cellular component')",3,0
+"('gene or gene product', 'acts upstream of negative effect', 'n/a', 'gene or gene product')",27,4
+"('gene or gene product', 'acts upstream of or within', 'n/a', 'gene or gene product')",4,0
+"('gene or gene product', 'causes', 'n/a', 'cellular component')",44,5
+"('gene or gene product', 'causes', 'n/a', 'gene or gene product')",747,164
+"('gene or gene product', 'directly physically interacts with', 'n/a', 'gene or gene product')",1,0
+"('gene or gene product', 'enabled by', 'n/a', 'gene or gene product')",0,1
+"('gene or gene product', 'has input', 'n/a', 'gene or gene product')",0,2
+"('gene or gene product', 'has part', 'n/a', 'gene or gene product')",12,6
+"('gene or gene product', 'is input of', 'n/a', 'cellular component')",10,18
+"('gene or gene product', 'is input of', 'n/a', 'chemical entity')",0,2
+"('gene or gene product', 'is input of', 'n/a', 'gene or gene product')",582,669
+"('gene or gene product', 'part of', 'n/a', 'cellular component')",0,2
+"('gene or gene product', 'part of', 'n/a', 'gene or gene product')",10,5
+"('gene or gene product', 'precedes', 'n/a', 'cellular component')",0,11
+"('gene or gene product', 'precedes', 'n/a', 'gene or gene product')",9,37
+"('gene or gene product', 'regulates', 'n/a', 'cellular component')",96,27
+"('gene or gene product', 'regulates', 'n/a', 'chemical entity')",3,0
+"('gene or gene product', 'regulates', 'n/a', 'gene or gene product')",3111,480
+"('gene or gene product', 'related to', 'n/a', 'cellular component')",3,0
+"('gene or gene product', 'related to', 'n/a', 'gene or gene product')",77,14

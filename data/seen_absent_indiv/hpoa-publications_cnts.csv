@@ -1,0 +1,6 @@
+spqo,present_cnt,absent_cnt
+"('disease or phenotypic feature', 'has phenotype', 'n/a', 'disease or phenotypic feature')",262279,0
+"('gene or gene product', 'associated with', 'causes', 'disease or phenotypic feature')",328126,6941
+"('gene or gene product', 'associated with', 'causes', 'gene or gene product')",0,1
+"('gene or gene product', 'associated with', 'contributes to', 'disease or phenotypic feature')",0,569
+"('gene or gene product', 'has phenotype', 'n/a', 'disease or phenotypic feature')",81,0

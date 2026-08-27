@@ -1,0 +1,1664 @@
+spqo,present_cnt,absent_cnt
+"('activity', 'affects', 'n/a', 'activity')",4,0
+"('activity', 'affects', 'n/a', 'anatomical entity')",1,0
+"('activity', 'affects', 'n/a', 'biological process')",131,0
+"('activity', 'affects', 'n/a', 'clinical attribute')",1,0
+"('activity', 'affects', 'n/a', 'cohort')",3,0
+"('activity', 'affects', 'n/a', 'disease or phenotypic feature')",84,0
+"('activity', 'affects', 'n/a', 'information content entity')",3,0
+"('activity', 'affects', 'n/a', 'molecular activity')",12,0
+"('activity', 'affects', 'n/a', 'organism taxon')",2,0
+"('activity', 'affects', 'n/a', 'phenomenon')",8,0
+"('activity', 'affects', 'n/a', 'procedure')",37,0
+"('activity', 'causes', 'n/a', 'disease or phenotypic feature')",42,0
+"('activity', 'coexists with', 'n/a', 'activity')",1,0
+"('activity', 'coexists with', 'n/a', 'anatomical entity')",1,0
+"('activity', 'coexists with', 'n/a', 'biological process')",107,0
+"('activity', 'coexists with', 'n/a', 'clinical attribute')",2,0
+"('activity', 'coexists with', 'n/a', 'disease or phenotypic feature')",41,0
+"('activity', 'coexists with', 'n/a', 'information content entity')",5,0
+"('activity', 'coexists with', 'n/a', 'molecular activity')",2,0
+"('activity', 'coexists with', 'n/a', 'phenomenon')",4,0
+"('activity', 'coexists with', 'n/a', 'procedure')",8,0
+"('activity', 'diagnoses', 'n/a', 'clinical attribute')",1,0
+"('activity', 'diagnoses', 'n/a', 'disease or phenotypic feature')",172,0
+"('activity', 'diagnoses', 'n/a', 'procedure')",1,0
+"('activity', 'has input', 'n/a', 'chemical entity')",180,0
+"('activity', 'has input', 'n/a', 'device')",64,0
+"('activity', 'has input', 'n/a', 'gene or gene product')",38,0
+"('activity', 'has input', 'n/a', 'physical entity')",5,0
+"('activity', 'has input', 'n/a', 'procedure')",21,0
+"('activity', 'located in', 'n/a', 'agent')",10,0
+"('activity', 'located in', 'n/a', 'anatomical entity')",216,0
+"('activity', 'located in', 'n/a', 'cell')",7,0
+"('activity', 'located in', 'n/a', 'cellular component')",4,0
+"('activity', 'located in', 'n/a', 'gross anatomical structure')",258,0
+"('activity', 'located in', 'n/a', 'information content entity')",1,0
+"('activity', 'located in', 'n/a', 'publication')",1,0
+"('activity', 'occurs in', 'n/a', 'biological entity')",2,0
+"('activity', 'occurs in', 'n/a', 'chemical entity')",12,0
+"('activity', 'occurs in', 'n/a', 'cohort')",17,0
+"('activity', 'occurs in', 'n/a', 'disease or phenotypic feature')",1,0
+"('activity', 'occurs in', 'n/a', 'gene or gene product')",62,0
+"('activity', 'occurs in', 'n/a', 'gross anatomical structure')",1,0
+"('activity', 'occurs in', 'n/a', 'organism taxon')",1,0
+"('activity', 'occurs in', 'n/a', 'population of individual organisms')",20,0
+"('activity', 'precedes', 'n/a', 'biological process')",22,0
+"('activity', 'precedes', 'n/a', 'clinical attribute')",1,0
+"('activity', 'precedes', 'n/a', 'disease or phenotypic feature')",6,0
+"('activity', 'precedes', 'n/a', 'phenomenon')",1,0
+"('activity', 'precedes', 'n/a', 'procedure')",29,0
+"('activity', 'predisposes to condition', 'n/a', 'clinical attribute')",2,0
+"('activity', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",134,0
+"('activity', 'produces', 'n/a', 'chemical entity')",4,0
+"('activity', 'produces', 'n/a', 'gene or gene product')",7,0
+"('activity', 'related to', 'n/a', 'biological process')",8,0
+"('activity', 'related to', 'n/a', 'clinical attribute')",1,0
+"('activity', 'related to', 'n/a', 'disease or phenotypic feature')",92,0
+"('activity', 'treats or applied or studied to treat', 'n/a', 'agent')",2,0
+"('activity', 'treats or applied or studied to treat', 'n/a', 'anatomical entity')",1,0
+"('activity', 'treats or applied or studied to treat', 'n/a', 'clinical attribute')",2,0
+"('activity', 'treats or applied or studied to treat', 'n/a', 'cohort')",226,0
+"('activity', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",1717,0
+"('activity', 'treats or applied or studied to treat', 'n/a', 'gross anatomical structure')",27,0
+"('activity', 'treats or applied or studied to treat', 'n/a', 'information content entity')",1,0
+"('activity', 'treats or applied or studied to treat', 'n/a', 'organism taxon')",2,0
+"('activity', 'treats or applied or studied to treat', 'n/a', 'population of individual organisms')",153,0
+"('agent', 'diagnoses', 'n/a', 'disease or phenotypic feature')",1,0
+"('agent', 'has input', 'n/a', 'device')",7,0
+"('agent', 'has part', 'n/a', 'anatomical entity')",4,0
+"('agent', 'has part', 'n/a', 'gene or gene product')",2,0
+"('agent', 'has part', 'n/a', 'gross anatomical structure')",4,0
+"('agent', 'interacts with', 'n/a', 'cohort')",3,0
+"('anatomical entity', 'affects', 'n/a', 'activity')",2,0
+"('anatomical entity', 'affects', 'n/a', 'anatomical entity')",1,0
+"('anatomical entity', 'affects', 'n/a', 'behavior')",1,0
+"('anatomical entity', 'affects', 'n/a', 'biological process')",216,0
+"('anatomical entity', 'affects', 'n/a', 'cohort')",3,0
+"('anatomical entity', 'affects', 'n/a', 'disease or phenotypic feature')",128,0
+"('anatomical entity', 'affects', 'n/a', 'information content entity')",4,0
+"('anatomical entity', 'affects', 'n/a', 'phenomenon')",24,0
+"('anatomical entity', 'causes', 'n/a', 'anatomical entity')",2,0
+"('anatomical entity', 'causes', 'n/a', 'disease or phenotypic feature')",610,0
+"('anatomical entity', 'causes', 'n/a', 'information content entity')",7,0
+"('anatomical entity', 'coexists with', 'n/a', 'activity')",1,0
+"('anatomical entity', 'coexists with', 'n/a', 'biological process')",42,0
+"('anatomical entity', 'coexists with', 'n/a', 'disease or phenotypic feature')",30,0
+"('anatomical entity', 'coexists with', 'n/a', 'organism taxon')",1,0
+"('anatomical entity', 'coexists with', 'n/a', 'phenomenon')",1,0
+"('anatomical entity', 'has input', 'n/a', 'chemical entity')",3,0
+"('anatomical entity', 'has input', 'n/a', 'device')",16,0
+"('anatomical entity', 'has input', 'n/a', 'physical entity')",1,0
+"('anatomical entity', 'has part', 'n/a', 'anatomical entity')",4784,0
+"('anatomical entity', 'has part', 'n/a', 'cell')",2940,0
+"('anatomical entity', 'has part', 'n/a', 'cellular component')",1075,0
+"('anatomical entity', 'has part', 'n/a', 'chemical entity')",1683,0
+"('anatomical entity', 'has part', 'n/a', 'disease or phenotypic feature')",81,0
+"('anatomical entity', 'has part', 'n/a', 'gene or gene product')",4510,0
+"('anatomical entity', 'has part', 'n/a', 'genomic entity')",31,0
+"('anatomical entity', 'has part', 'n/a', 'gross anatomical structure')",3205,0
+"('anatomical entity', 'has part', 'n/a', 'information content entity')",49,0
+"('anatomical entity', 'has part', 'n/a', 'organism taxon')",8,0
+"('anatomical entity', 'has part', 'n/a', 'polypeptide')",59,0
+"('anatomical entity', 'has part', 'n/a', 'procedure')",1,0
+"('anatomical entity', 'has part', 'n/a', 'publication')",101,0
+"('anatomical entity', 'located in', 'n/a', 'agent')",3,0
+"('anatomical entity', 'located in', 'n/a', 'anatomical entity')",1832,0
+"('anatomical entity', 'located in', 'n/a', 'cell')",149,0
+"('anatomical entity', 'located in', 'n/a', 'cellular component')",144,0
+"('anatomical entity', 'located in', 'n/a', 'clinical attribute')",4,0
+"('anatomical entity', 'located in', 'n/a', 'cohort')",254,0
+"('anatomical entity', 'located in', 'n/a', 'disease or phenotypic feature')",30,0
+"('anatomical entity', 'located in', 'n/a', 'gross anatomical structure')",3054,0
+"('anatomical entity', 'located in', 'n/a', 'human')",1,0
+"('anatomical entity', 'located in', 'n/a', 'information content entity')",49,0
+"('anatomical entity', 'located in', 'n/a', 'organism taxon')",7,0
+"('anatomical entity', 'located in', 'n/a', 'population of individual organisms')",174,0
+"('anatomical entity', 'located in', 'n/a', 'publication')",39,0
+"('anatomical entity', 'occurs in', 'n/a', 'biological entity')",1,0
+"('anatomical entity', 'occurs in', 'n/a', 'cohort')",12,0
+"('anatomical entity', 'occurs in', 'n/a', 'disease or phenotypic feature')",2,0
+"('anatomical entity', 'occurs in', 'n/a', 'gross anatomical structure')",4,0
+"('anatomical entity', 'occurs in', 'n/a', 'population of individual organisms')",7,0
+"('anatomical entity', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",4,0
+"('anatomical entity', 'produces', 'n/a', 'anatomical entity')",26,0
+"('anatomical entity', 'produces', 'n/a', 'chemical entity')",190,0
+"('anatomical entity', 'produces', 'n/a', 'disease or phenotypic feature')",1,0
+"('anatomical entity', 'produces', 'n/a', 'gene or gene product')",329,0
+"('anatomical entity', 'produces', 'n/a', 'polypeptide')",2,0
+"('anatomical entity', 'related to', 'n/a', 'activity')",1,0
+"('anatomical entity', 'related to', 'n/a', 'anatomical entity')",3,0
+"('anatomical entity', 'related to', 'n/a', 'biological process')",2,0
+"('anatomical entity', 'related to', 'n/a', 'clinical attribute')",8,0
+"('anatomical entity', 'related to', 'n/a', 'disease or phenotypic feature')",730,0
+"('anatomical entity', 'related to', 'n/a', 'information content entity')",23,0
+"('anatomical entity', 'related to', 'n/a', 'phenomenon')",3,0
+"('anatomical entity', 'related to', 'n/a', 'population of individual organisms')",5,0
+"('anatomical entity', 'related to', 'n/a', 'procedure')",4,0
+"('anatomical entity', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",2,0
+"('behavior', 'affects', 'n/a', 'activity')",8,0
+"('behavior', 'affects', 'n/a', 'anatomical entity')",3,0
+"('behavior', 'affects', 'n/a', 'behavior')",471,0
+"('behavior', 'affects', 'n/a', 'biological process')",340,0
+"('behavior', 'affects', 'n/a', 'clinical attribute')",2,0
+"('behavior', 'affects', 'n/a', 'cohort')",1,0
+"('behavior', 'affects', 'n/a', 'disease or phenotypic feature')",62,0
+"('behavior', 'affects', 'n/a', 'information content entity')",34,0
+"('behavior', 'affects', 'n/a', 'organism taxon')",9,0
+"('behavior', 'affects', 'n/a', 'phenomenon')",9,0
+"('behavior', 'affects', 'n/a', 'population of individual organisms')",1,0
+"('behavior', 'affects', 'n/a', 'procedure')",1,0
+"('behavior', 'coexists with', 'n/a', 'activity')",1,0
+"('behavior', 'coexists with', 'n/a', 'biological process')",27,0
+"('behavior', 'coexists with', 'n/a', 'clinical attribute')",1,0
+"('behavior', 'coexists with', 'n/a', 'disease or phenotypic feature')",47,0
+"('behavior', 'has input', 'n/a', 'chemical entity')",16,0
+"('behavior', 'has input', 'n/a', 'gene or gene product')",1,0
+"('behavior', 'located in', 'n/a', 'anatomical entity')",6,0
+"('behavior', 'located in', 'n/a', 'chemical entity')",1,0
+"('behavior', 'located in', 'n/a', 'gross anatomical structure')",19,0
+"('behavior', 'manifestation of', 'n/a', 'disease or phenotypic feature')",7,0
+"('behavior', 'occurs in', 'n/a', 'agent')",9,0
+"('behavior', 'occurs in', 'n/a', 'cohort')",486,0
+"('behavior', 'occurs in', 'n/a', 'disease or phenotypic feature')",34,0
+"('behavior', 'occurs in', 'n/a', 'gross anatomical structure')",54,0
+"('behavior', 'occurs in', 'n/a', 'human')",2,0
+"('behavior', 'occurs in', 'n/a', 'information content entity')",4,0
+"('behavior', 'occurs in', 'n/a', 'population of individual organisms')",462,0
+"('behavior', 'precedes', 'n/a', 'biological process')",4,0
+"('behavior', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",684,0
+"('behavior', 'predisposes to condition', 'n/a', 'information content entity')",1,0
+"('behavior', 'related to', 'n/a', 'disease or phenotypic feature')",11,0
+"('behavior', 'treats or applied or studied to treat', 'n/a', 'cohort')",7,0
+"('behavior', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",86,0
+"('behavior', 'treats or applied or studied to treat', 'n/a', 'gross anatomical structure')",1,0
+"('behavior', 'treats or applied or studied to treat', 'n/a', 'organism taxon')",1,0
+"('behavior', 'treats or applied or studied to treat', 'n/a', 'population of individual organisms')",3,0
+"('biological entity', 'coexists with', 'n/a', 'biological entity')",5,0
+"('biological entity', 'coexists with', 'n/a', 'disease or phenotypic feature')",90,0
+"('biological entity', 'located in', 'n/a', 'anatomical entity')",78,0
+"('biological entity', 'located in', 'n/a', 'cell')",154,0
+"('biological entity', 'located in', 'n/a', 'cellular component')",18,0
+"('biological entity', 'located in', 'n/a', 'disease or phenotypic feature')",32,0
+"('biological entity', 'located in', 'n/a', 'gross anatomical structure')",210,0
+"('biological entity', 'located in', 'n/a', 'organism taxon')",4,0
+"('biological entity', 'located in', 'n/a', 'publication')",5,0
+"('biological entity', 'occurs in', 'n/a', 'organism taxon')",10,0
+"('biological entity', 'produces', 'n/a', 'anatomical entity')",1,0
+"('biological entity', 'produces', 'n/a', 'chemical entity')",7,0
+"('biological entity', 'produces', 'n/a', 'gene or gene product')",32,0
+"('biological process', 'affects', 'n/a', 'activity')",55,0
+"('biological process', 'affects', 'n/a', 'agent')",2,0
+"('biological process', 'affects', 'n/a', 'anatomical entity')",49,0
+"('biological process', 'affects', 'n/a', 'behavior')",20,0
+"('biological process', 'affects', 'n/a', 'biological entity')",20,0
+"('biological process', 'affects', 'n/a', 'biological process')",6413,0
+"('biological process', 'affects', 'n/a', 'cell')",868,0
+"('biological process', 'affects', 'n/a', 'cellular component')",8,0
+"('biological process', 'affects', 'n/a', 'chemical entity')",318,0
+"('biological process', 'affects', 'n/a', 'clinical attribute')",99,0
+"('biological process', 'affects', 'n/a', 'cohort')",184,0
+"('biological process', 'affects', 'n/a', 'disease or phenotypic feature')",6045,0
+"('biological process', 'affects', 'n/a', 'gene or gene product')",1100,0
+"('biological process', 'affects', 'n/a', 'genomic entity')",2,0
+"('biological process', 'affects', 'n/a', 'gross anatomical structure')",160,0
+"('biological process', 'affects', 'n/a', 'human')",6,0
+"('biological process', 'affects', 'n/a', 'information content entity')",193,0
+"('biological process', 'affects', 'n/a', 'molecular activity')",136,0
+"('biological process', 'affects', 'n/a', 'organism taxon')",422,0
+"('biological process', 'affects', 'n/a', 'phenomenon')",610,0
+"('biological process', 'affects', 'n/a', 'physiological process')",2,0
+"('biological process', 'affects', 'n/a', 'polypeptide')",37,0
+"('biological process', 'affects', 'n/a', 'population of individual organisms')",102,0
+"('biological process', 'affects', 'n/a', 'procedure')",17,0
+"('biological process', 'affects', 'n/a', 'publication')",4,0
+"('biological process', 'causes', 'n/a', 'activity')",1,0
+"('biological process', 'causes', 'n/a', 'biological process')",706,0
+"('biological process', 'causes', 'n/a', 'disease or phenotypic feature')",23,0
+"('biological process', 'causes', 'n/a', 'molecular activity')",107,0
+"('biological process', 'causes', 'n/a', 'phenomenon')",5,0
+"('biological process', 'coexists with', 'n/a', 'activity')",111,0
+"('biological process', 'coexists with', 'n/a', 'anatomical entity')",59,0
+"('biological process', 'coexists with', 'n/a', 'behavior')",48,0
+"('biological process', 'coexists with', 'n/a', 'biological process')",9091,0
+"('biological process', 'coexists with', 'n/a', 'chemical entity')",1,0
+"('biological process', 'coexists with', 'n/a', 'clinical attribute')",39,0
+"('biological process', 'coexists with', 'n/a', 'disease or phenotypic feature')",789,0
+"('biological process', 'coexists with', 'n/a', 'information content entity')",119,0
+"('biological process', 'coexists with', 'n/a', 'molecular activity')",183,0
+"('biological process', 'coexists with', 'n/a', 'phenomenon')",172,0
+"('biological process', 'coexists with', 'n/a', 'physiological process')",2,0
+"('biological process', 'coexists with', 'n/a', 'procedure')",20,0
+"('biological process', 'diagnoses', 'n/a', 'disease or phenotypic feature')",41,0
+"('biological process', 'has input', 'n/a', 'chemical entity')",3,0
+"('biological process', 'has input', 'n/a', 'device')",1,0
+"('biological process', 'located in', 'n/a', 'anatomical entity')",962,0
+"('biological process', 'located in', 'n/a', 'cell')",6112,0
+"('biological process', 'located in', 'n/a', 'cellular component')",539,0
+"('biological process', 'located in', 'n/a', 'chemical entity')",1,0
+"('biological process', 'located in', 'n/a', 'cohort')",1,0
+"('biological process', 'located in', 'n/a', 'disease or phenotypic feature')",2,0
+"('biological process', 'located in', 'n/a', 'gene or gene product')",1,0
+"('biological process', 'located in', 'n/a', 'gross anatomical structure')",1573,0
+"('biological process', 'located in', 'n/a', 'information content entity')",1,0
+"('biological process', 'located in', 'n/a', 'organism taxon')",31,0
+"('biological process', 'located in', 'n/a', 'polypeptide')",1,0
+"('biological process', 'manifestation of', 'n/a', 'information content entity')",1,0
+"('biological process', 'occurs in', 'n/a', 'agent')",9,0
+"('biological process', 'occurs in', 'n/a', 'anatomical entity')",643,0
+"('biological process', 'occurs in', 'n/a', 'biological entity')",310,0
+"('biological process', 'occurs in', 'n/a', 'biological process')",1,0
+"('biological process', 'occurs in', 'n/a', 'cell')",887,0
+"('biological process', 'occurs in', 'n/a', 'cellular component')",8,0
+"('biological process', 'occurs in', 'n/a', 'chemical entity')",270,0
+"('biological process', 'occurs in', 'n/a', 'cohort')",969,0
+"('biological process', 'occurs in', 'n/a', 'disease or phenotypic feature')",1957,0
+"('biological process', 'occurs in', 'n/a', 'gene or gene product')",9162,0
+"('biological process', 'occurs in', 'n/a', 'genomic entity')",59,0
+"('biological process', 'occurs in', 'n/a', 'gross anatomical structure')",1674,0
+"('biological process', 'occurs in', 'n/a', 'human')",29,0
+"('biological process', 'occurs in', 'n/a', 'information content entity')",12,0
+"('biological process', 'occurs in', 'n/a', 'organism taxon')",2065,0
+"('biological process', 'occurs in', 'n/a', 'population of individual organisms')",679,0
+"('biological process', 'precedes', 'n/a', 'activity')",21,0
+"('biological process', 'precedes', 'n/a', 'anatomical entity')",6,0
+"('biological process', 'precedes', 'n/a', 'behavior')",3,0
+"('biological process', 'precedes', 'n/a', 'biological process')",893,0
+"('biological process', 'precedes', 'n/a', 'chemical entity')",1,0
+"('biological process', 'precedes', 'n/a', 'clinical attribute')",12,0
+"('biological process', 'precedes', 'n/a', 'disease or phenotypic feature')",33,0
+"('biological process', 'precedes', 'n/a', 'information content entity')",14,0
+"('biological process', 'precedes', 'n/a', 'molecular activity')",15,0
+"('biological process', 'precedes', 'n/a', 'phenomenon')",7,0
+"('biological process', 'precedes', 'n/a', 'procedure')",6,0
+"('biological process', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",37,0
+"('biological process', 'produces', 'n/a', 'anatomical entity')",59,0
+"('biological process', 'produces', 'n/a', 'chemical entity')",626,0
+"('biological process', 'produces', 'n/a', 'cohort')",14,0
+"('biological process', 'produces', 'n/a', 'disease or phenotypic feature')",1,0
+"('biological process', 'produces', 'n/a', 'gene or gene product')",935,0
+"('biological process', 'produces', 'n/a', 'gross anatomical structure')",4,0
+"('biological process', 'produces', 'n/a', 'polypeptide')",7,0
+"('biological process', 'related to', 'n/a', 'activity')",4,0
+"('biological process', 'related to', 'n/a', 'biological process')",580,0
+"('biological process', 'related to', 'n/a', 'chemical entity')",560,0
+"('biological process', 'related to', 'n/a', 'clinical attribute')",7,0
+"('biological process', 'related to', 'n/a', 'disease or phenotypic feature')",4424,0
+"('biological process', 'related to', 'n/a', 'gene or gene product')",68,0
+"('biological process', 'related to', 'n/a', 'gross anatomical structure')",1,0
+"('biological process', 'related to', 'n/a', 'information content entity')",10,0
+"('biological process', 'related to', 'n/a', 'molecular activity')",25,0
+"('biological process', 'related to', 'n/a', 'phenomenon')",1,0
+"('biological process', 'related to', 'n/a', 'polypeptide')",1,0
+"('biological process', 'related to', 'n/a', 'procedure')",10,0
+"('cell', 'affects', 'n/a', 'activity')",38,0
+"('cell', 'affects', 'n/a', 'anatomical entity')",1,0
+"('cell', 'affects', 'n/a', 'behavior')",4,0
+"('cell', 'affects', 'n/a', 'biological process')",1319,0
+"('cell', 'affects', 'n/a', 'cell')",2,0
+"('cell', 'affects', 'n/a', 'disease or phenotypic feature')",1,0
+"('cell', 'affects', 'n/a', 'information content entity')",23,0
+"('cell', 'affects', 'n/a', 'molecular activity')",10,0
+"('cell', 'affects', 'n/a', 'phenomenon')",88,0
+"('cell', 'affects', 'n/a', 'procedure')",6,0
+"('cell', 'causes', 'n/a', 'disease or phenotypic feature')",1,0
+"('cell', 'coexists with', 'n/a', 'chemical entity')",1,0
+"('cell', 'coexists with', 'n/a', 'gene or gene product')",1,0
+"('cell', 'has part', 'n/a', 'anatomical entity')",671,0
+"('cell', 'has part', 'n/a', 'cell')",39,0
+"('cell', 'has part', 'n/a', 'cellular component')",2815,0
+"('cell', 'has part', 'n/a', 'chemical entity')",2654,0
+"('cell', 'has part', 'n/a', 'disease or phenotypic feature')",74,0
+"('cell', 'has part', 'n/a', 'gene or gene product')",8029,0
+"('cell', 'has part', 'n/a', 'genomic entity')",23,0
+"('cell', 'has part', 'n/a', 'gross anatomical structure')",51,0
+"('cell', 'has part', 'n/a', 'information content entity')",1,0
+"('cell', 'has part', 'n/a', 'organism taxon')",17,0
+"('cell', 'has part', 'n/a', 'polypeptide')",122,0
+"('cell', 'interacts with', 'n/a', 'cell')",3285,0
+"('cell', 'interacts with', 'n/a', 'cellular component')",24,0
+"('cell', 'interacts with', 'n/a', 'chemical entity')",575,0
+"('cell', 'interacts with', 'n/a', 'disease or phenotypic feature')",2,0
+"('cell', 'interacts with', 'n/a', 'gene or gene product')",5387,0
+"('cell', 'interacts with', 'n/a', 'genomic entity')",14,0
+"('cell', 'interacts with', 'n/a', 'polypeptide')",2,0
+"('cell', 'located in', 'n/a', 'anatomical entity')",4,0
+"('cell', 'occurs in', 'n/a', 'cohort')",1,0
+"('cell', 'occurs in', 'n/a', 'gross anatomical structure')",1,0
+"('cell', 'produces', 'n/a', 'anatomical entity')",87,0
+"('cell', 'produces', 'n/a', 'cellular component')",1,0
+"('cell', 'produces', 'n/a', 'chemical entity')",1791,0
+"('cell', 'produces', 'n/a', 'disease or phenotypic feature')",7,0
+"('cell', 'produces', 'n/a', 'gene or gene product')",9445,0
+"('cell', 'produces', 'n/a', 'genomic entity')",32,0
+"('cell', 'produces', 'n/a', 'gross anatomical structure')",3,0
+"('cell', 'produces', 'n/a', 'organism taxon')",2,0
+"('cell', 'produces', 'n/a', 'polypeptide')",51,0
+"('cell', 'related to', 'n/a', 'disease or phenotypic feature')",1,0
+"('cell', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",5,0
+"('cellular component', 'affects', 'n/a', 'biological process')",15,0
+"('cellular component', 'affects', 'n/a', 'disease or phenotypic feature')",5,0
+"('cellular component', 'affects', 'n/a', 'gene or gene product')",1,0
+"('cellular component', 'affects', 'n/a', 'molecular activity')",1,0
+"('cellular component', 'affects', 'n/a', 'phenomenon')",1,0
+"('cellular component', 'causes', 'n/a', 'biological process')",1,0
+"('cellular component', 'causes', 'n/a', 'disease or phenotypic feature')",10,0
+"('cellular component', 'coexists with', 'n/a', 'gene or gene product')",2,0
+"('cellular component', 'has part', 'n/a', 'anatomical entity')",67,0
+"('cellular component', 'has part', 'n/a', 'cell')",12,0
+"('cellular component', 'has part', 'n/a', 'cellular component')",1596,0
+"('cellular component', 'has part', 'n/a', 'chemical entity')",2424,0
+"('cellular component', 'has part', 'n/a', 'disease or phenotypic feature')",20,0
+"('cellular component', 'has part', 'n/a', 'gene or gene product')",9282,0
+"('cellular component', 'has part', 'n/a', 'genomic entity')",39,0
+"('cellular component', 'has part', 'n/a', 'gross anatomical structure')",8,0
+"('cellular component', 'has part', 'n/a', 'information content entity')",1,0
+"('cellular component', 'has part', 'n/a', 'organism taxon')",9,0
+"('cellular component', 'has part', 'n/a', 'polypeptide')",71,0
+"('cellular component', 'has part', 'n/a', 'publication')",1,0
+"('cellular component', 'interacts with', 'n/a', 'cell')",18,0
+"('cellular component', 'interacts with', 'n/a', 'chemical entity')",6,0
+"('cellular component', 'interacts with', 'n/a', 'gene or gene product')",41,0
+"('cellular component', 'interacts with', 'n/a', 'organism taxon')",1,0
+"('cellular component', 'located in', 'n/a', 'anatomical entity')",318,0
+"('cellular component', 'located in', 'n/a', 'cell')",266,0
+"('cellular component', 'located in', 'n/a', 'cellular component')",316,0
+"('cellular component', 'located in', 'n/a', 'chemical entity')",1,0
+"('cellular component', 'located in', 'n/a', 'cohort')",1,0
+"('cellular component', 'located in', 'n/a', 'gross anatomical structure')",360,0
+"('cellular component', 'located in', 'n/a', 'information content entity')",2,0
+"('cellular component', 'located in', 'n/a', 'organism taxon')",3,0
+"('cellular component', 'located in', 'n/a', 'population of individual organisms')",1,0
+"('cellular component', 'located in', 'n/a', 'publication')",91,0
+"('cellular component', 'occurs in', 'n/a', 'cell')",2,0
+"('cellular component', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",2,0
+"('cellular component', 'produces', 'n/a', 'anatomical entity')",17,0
+"('cellular component', 'produces', 'n/a', 'cellular component')",1,0
+"('cellular component', 'produces', 'n/a', 'chemical entity')",268,0
+"('cellular component', 'produces', 'n/a', 'gene or gene product')",364,0
+"('cellular component', 'produces', 'n/a', 'genomic entity')",8,0
+"('cellular component', 'produces', 'n/a', 'organism taxon')",1,0
+"('cellular component', 'produces', 'n/a', 'polypeptide')",7,0
+"('cellular component', 'related to', 'n/a', 'disease or phenotypic feature')",189,0
+"('cellular component', 'treats or applied or studied to treat', 'n/a', 'cell')",1,0
+"('chemical entity', 'affects', 'causes', 'chemical entity')",12688,0
+"('chemical entity', 'affects', 'causes', 'gene or gene product')",5568,0
+"('chemical entity', 'affects', 'n/a', 'activity')",365,0
+"('chemical entity', 'affects', 'n/a', 'anatomical entity')",2027,0
+"('chemical entity', 'affects', 'n/a', 'behavior')",63,0
+"('chemical entity', 'affects', 'n/a', 'biological entity')",43,0
+"('chemical entity', 'affects', 'n/a', 'biological process')",33371,0
+"('chemical entity', 'affects', 'n/a', 'cell')",7689,0
+"('chemical entity', 'affects', 'n/a', 'cellular component')",1741,0
+"('chemical entity', 'affects', 'n/a', 'chemical entity')",9476,0
+"('chemical entity', 'affects', 'n/a', 'clinical attribute')",415,0
+"('chemical entity', 'affects', 'n/a', 'disease or phenotypic feature')",19284,0
+"('chemical entity', 'affects', 'n/a', 'event')",2,0
+"('chemical entity', 'affects', 'n/a', 'gene or gene product')",25844,0
+"('chemical entity', 'affects', 'n/a', 'genomic entity')",117,0
+"('chemical entity', 'affects', 'n/a', 'gross anatomical structure')",6498,0
+"('chemical entity', 'affects', 'n/a', 'information content entity')",868,0
+"('chemical entity', 'affects', 'n/a', 'molecular activity')",4405,0
+"('chemical entity', 'affects', 'n/a', 'organism taxon')",127,0
+"('chemical entity', 'affects', 'n/a', 'phenomenon')",1675,0
+"('chemical entity', 'affects', 'n/a', 'physical entity')",5,0
+"('chemical entity', 'affects', 'n/a', 'physiological process')",13,0
+"('chemical entity', 'affects', 'n/a', 'polypeptide')",157,0
+"('chemical entity', 'affects', 'n/a', 'population of individual organisms')",2,0
+"('chemical entity', 'affects', 'n/a', 'procedure')",103,0
+"('chemical entity', 'causes', 'n/a', 'activity')",7,0
+"('chemical entity', 'causes', 'n/a', 'anatomical entity')",10,0
+"('chemical entity', 'causes', 'n/a', 'biological process')",4888,0
+"('chemical entity', 'causes', 'n/a', 'disease or phenotypic feature')",23567,0
+"('chemical entity', 'causes', 'n/a', 'gene or gene product')",3,0
+"('chemical entity', 'causes', 'n/a', 'information content entity')",202,0
+"('chemical entity', 'causes', 'n/a', 'molecular activity')",386,0
+"('chemical entity', 'causes', 'n/a', 'phenomenon')",166,0
+"('chemical entity', 'causes', 'n/a', 'physiological process')",9,0
+"('chemical entity', 'causes', 'n/a', 'procedure')",8,0
+"('chemical entity', 'close match', 'n/a', 'chemical entity')",119,0
+"('chemical entity', 'close match', 'n/a', 'gene or gene product')",14,0
+"('chemical entity', 'close match', 'n/a', 'procedure')",20,0
+"('chemical entity', 'coexists with', 'n/a', 'biological process')",2,0
+"('chemical entity', 'coexists with', 'n/a', 'cellular component')",6,0
+"('chemical entity', 'coexists with', 'n/a', 'chemical entity')",27355,0
+"('chemical entity', 'coexists with', 'n/a', 'disease or phenotypic feature')",407,0
+"('chemical entity', 'coexists with', 'n/a', 'gene or gene product')",8311,0
+"('chemical entity', 'coexists with', 'n/a', 'genomic entity')",66,0
+"('chemical entity', 'coexists with', 'n/a', 'information content entity')",4,0
+"('chemical entity', 'coexists with', 'n/a', 'molecular activity')",32,0
+"('chemical entity', 'coexists with', 'n/a', 'organism taxon')",4,0
+"('chemical entity', 'coexists with', 'n/a', 'physical entity')",23,0
+"('chemical entity', 'coexists with', 'n/a', 'polypeptide')",167,0
+"('chemical entity', 'coexists with', 'n/a', 'publication')",2,0
+"('chemical entity', 'derives from', 'n/a', 'chemical entity')",1585,0
+"('chemical entity', 'derives from', 'n/a', 'disease or phenotypic feature')",2,0
+"('chemical entity', 'derives from', 'n/a', 'gene or gene product')",495,0
+"('chemical entity', 'derives from', 'n/a', 'genomic entity')",3,0
+"('chemical entity', 'derives from', 'n/a', 'organism taxon')",2,0
+"('chemical entity', 'derives from', 'n/a', 'physical entity')",3,0
+"('chemical entity', 'derives from', 'n/a', 'polypeptide')",14,0
+"('chemical entity', 'diagnoses', 'n/a', 'organism taxon')",1,0
+"('chemical entity', 'disrupts', 'n/a', 'activity')",26,0
+"('chemical entity', 'disrupts', 'n/a', 'anatomical entity')",223,0
+"('chemical entity', 'disrupts', 'n/a', 'behavior')",1,0
+"('chemical entity', 'disrupts', 'n/a', 'biological process')",10571,0
+"('chemical entity', 'disrupts', 'n/a', 'cell')",1706,0
+"('chemical entity', 'disrupts', 'n/a', 'cellular component')",321,0
+"('chemical entity', 'disrupts', 'n/a', 'clinical attribute')",10,0
+"('chemical entity', 'disrupts', 'n/a', 'disease or phenotypic feature')",4048,0
+"('chemical entity', 'disrupts', 'n/a', 'gross anatomical structure')",613,0
+"('chemical entity', 'disrupts', 'n/a', 'information content entity')",127,0
+"('chemical entity', 'disrupts', 'n/a', 'molecular activity')",1986,0
+"('chemical entity', 'disrupts', 'n/a', 'organism taxon')",8,0
+"('chemical entity', 'disrupts', 'n/a', 'phenomenon')",285,0
+"('chemical entity', 'disrupts', 'n/a', 'physiological process')",2,0
+"('chemical entity', 'disrupts', 'n/a', 'procedure')",10,0
+"('chemical entity', 'exacerbates condition', 'n/a', 'biological process')",5,0
+"('chemical entity', 'exacerbates condition', 'n/a', 'disease or phenotypic feature')",35,0
+"('chemical entity', 'has input', 'n/a', 'chemical entity')",8,0
+"('chemical entity', 'has input', 'n/a', 'device')",3,0
+"('chemical entity', 'has input', 'n/a', 'gene or gene product')",2,0
+"('chemical entity', 'has part', 'n/a', 'anatomical entity')",6,0
+"('chemical entity', 'has part', 'n/a', 'cellular component')",11,0
+"('chemical entity', 'has part', 'n/a', 'chemical entity')",918,0
+"('chemical entity', 'has part', 'n/a', 'disease or phenotypic feature')",3,0
+"('chemical entity', 'has part', 'n/a', 'gene or gene product')",773,0
+"('chemical entity', 'has part', 'n/a', 'genomic entity')",8,0
+"('chemical entity', 'has part', 'n/a', 'organism taxon')",1,0
+"('chemical entity', 'has part', 'n/a', 'polypeptide')",34,0
+"('chemical entity', 'interacts with', 'n/a', 'cell')",923,0
+"('chemical entity', 'interacts with', 'n/a', 'cellular component')",9,0
+"('chemical entity', 'interacts with', 'n/a', 'chemical entity')",36958,0
+"('chemical entity', 'interacts with', 'n/a', 'disease or phenotypic feature')",19,0
+"('chemical entity', 'interacts with', 'n/a', 'gene or gene product')",18234,0
+"('chemical entity', 'interacts with', 'n/a', 'genomic entity')",41,0
+"('chemical entity', 'interacts with', 'n/a', 'information content entity')",3,0
+"('chemical entity', 'interacts with', 'n/a', 'molecular activity')",6,0
+"('chemical entity', 'interacts with', 'n/a', 'organism taxon')",113,0
+"('chemical entity', 'interacts with', 'n/a', 'phenomenon')",16,0
+"('chemical entity', 'interacts with', 'n/a', 'physical entity')",9,0
+"('chemical entity', 'interacts with', 'n/a', 'polypeptide')",405,0
+"('chemical entity', 'located in', 'n/a', 'agent')",15,0
+"('chemical entity', 'located in', 'n/a', 'anatomical entity')",22441,0
+"('chemical entity', 'located in', 'n/a', 'cell')",15177,0
+"('chemical entity', 'located in', 'n/a', 'cellular component')",6160,0
+"('chemical entity', 'located in', 'n/a', 'chemical entity')",382,0
+"('chemical entity', 'located in', 'n/a', 'cohort')",459,0
+"('chemical entity', 'located in', 'n/a', 'disease or phenotypic feature')",228,0
+"('chemical entity', 'located in', 'n/a', 'gene or gene product')",1,0
+"('chemical entity', 'located in', 'n/a', 'gross anatomical structure')",24473,0
+"('chemical entity', 'located in', 'n/a', 'human')",121,0
+"('chemical entity', 'located in', 'n/a', 'information content entity')",102,0
+"('chemical entity', 'located in', 'n/a', 'organism taxon')",15803,0
+"('chemical entity', 'located in', 'n/a', 'polypeptide')",1,0
+"('chemical entity', 'located in', 'n/a', 'population of individual organisms')",390,0
+"('chemical entity', 'located in', 'n/a', 'publication')",3,0
+"('chemical entity', 'occurs in', 'n/a', 'cohort')",3,0
+"('chemical entity', 'occurs in', 'n/a', 'population of individual organisms')",1,0
+"('chemical entity', 'precedes', 'n/a', 'disease or phenotypic feature')",1,0
+"('chemical entity', 'precedes', 'n/a', 'procedure')",57,0
+"('chemical entity', 'predisposes to condition', 'n/a', 'anatomical entity')",4,0
+"('chemical entity', 'predisposes to condition', 'n/a', 'clinical attribute')",2,0
+"('chemical entity', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",4063,0
+"('chemical entity', 'predisposes to condition', 'n/a', 'event')",1,0
+"('chemical entity', 'predisposes to condition', 'n/a', 'information content entity')",5,0
+"('chemical entity', 'produces', 'n/a', 'anatomical entity')",26,0
+"('chemical entity', 'produces', 'n/a', 'chemical entity')",604,0
+"('chemical entity', 'produces', 'n/a', 'disease or phenotypic feature')",1,0
+"('chemical entity', 'produces', 'n/a', 'gene or gene product')",630,0
+"('chemical entity', 'produces', 'n/a', 'genomic entity')",3,0
+"('chemical entity', 'produces', 'n/a', 'polypeptide')",2,0
+"('chemical entity', 'related to', 'n/a', 'anatomical entity')",5,0
+"('chemical entity', 'related to', 'n/a', 'biological process')",8,0
+"('chemical entity', 'related to', 'n/a', 'cell')",1,0
+"('chemical entity', 'related to', 'n/a', 'clinical attribute')",22,0
+"('chemical entity', 'related to', 'n/a', 'disease or phenotypic feature')",25193,0
+"('chemical entity', 'related to', 'n/a', 'gene or gene product')",9,0
+"('chemical entity', 'related to', 'n/a', 'gross anatomical structure')",2,0
+"('chemical entity', 'related to', 'n/a', 'information content entity')",61,0
+"('chemical entity', 'related to', 'n/a', 'procedure')",3,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'agent')",29,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'anatomical entity')",20,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'biological entity')",14,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'biological process')",2,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'cell')",2236,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'cellular component')",16,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'clinical attribute')",21,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'cohort')",1736,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",53972,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'event')",1,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'gross anatomical structure')",159,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'human')",47,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'information content entity')",76,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'organism taxon')",465,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'population of individual organisms')",913,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'procedure')",6,0
+"('clinical attribute', 'affects', 'n/a', 'biological process')",24,0
+"('clinical attribute', 'affects', 'n/a', 'clinical attribute')",1,0
+"('clinical attribute', 'affects', 'n/a', 'cohort')",8,0
+"('clinical attribute', 'affects', 'n/a', 'disease or phenotypic feature')",52,0
+"('clinical attribute', 'affects', 'n/a', 'information content entity')",4,0
+"('clinical attribute', 'affects', 'n/a', 'phenomenon')",4,0
+"('clinical attribute', 'affects', 'n/a', 'population of individual organisms')",5,0
+"('clinical attribute', 'causes', 'n/a', 'biological process')",1,0
+"('clinical attribute', 'causes', 'n/a', 'disease or phenotypic feature')",19,0
+"('clinical attribute', 'coexists with', 'n/a', 'activity')",1,0
+"('clinical attribute', 'coexists with', 'n/a', 'behavior')",2,0
+"('clinical attribute', 'coexists with', 'n/a', 'biological process')",46,0
+"('clinical attribute', 'coexists with', 'n/a', 'clinical attribute')",11,0
+"('clinical attribute', 'coexists with', 'n/a', 'disease or phenotypic feature')",202,0
+"('clinical attribute', 'coexists with', 'n/a', 'information content entity')",1,0
+"('clinical attribute', 'coexists with', 'n/a', 'procedure')",5,0
+"('clinical attribute', 'diagnoses', 'n/a', 'biological entity')",1,0
+"('clinical attribute', 'diagnoses', 'n/a', 'biological process')",1,0
+"('clinical attribute', 'diagnoses', 'n/a', 'disease or phenotypic feature')",67,0
+"('clinical attribute', 'disrupts', 'n/a', 'biological process')",1,0
+"('clinical attribute', 'disrupts', 'n/a', 'cell')",3,0
+"('clinical attribute', 'has input', 'n/a', 'device')",2,0
+"('clinical attribute', 'has part', 'n/a', 'gene or gene product')",7,0
+"('clinical attribute', 'interacts with', 'n/a', 'organism taxon')",1,0
+"('clinical attribute', 'located in', 'n/a', 'anatomical entity')",68,0
+"('clinical attribute', 'located in', 'n/a', 'gross anatomical structure')",143,0
+"('clinical attribute', 'located in', 'n/a', 'publication')",1,0
+"('clinical attribute', 'manifestation of', 'n/a', 'biological process')",1,0
+"('clinical attribute', 'manifestation of', 'n/a', 'disease or phenotypic feature')",2,0
+"('clinical attribute', 'occurs in', 'n/a', 'anatomical entity')",2,0
+"('clinical attribute', 'occurs in', 'n/a', 'biological entity')",1,0
+"('clinical attribute', 'occurs in', 'n/a', 'cohort')",38,0
+"('clinical attribute', 'occurs in', 'n/a', 'disease or phenotypic feature')",7,0
+"('clinical attribute', 'occurs in', 'n/a', 'gross anatomical structure')",7,0
+"('clinical attribute', 'occurs in', 'n/a', 'organism taxon')",1,0
+"('clinical attribute', 'occurs in', 'n/a', 'population of individual organisms')",31,0
+"('clinical attribute', 'precedes', 'n/a', 'biological process')",1,0
+"('clinical attribute', 'predisposes to condition', 'n/a', 'clinical attribute')",1,0
+"('clinical attribute', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",80,0
+"('clinical attribute', 'produces', 'n/a', 'anatomical entity')",1,0
+"('clinical attribute', 'produces', 'n/a', 'chemical entity')",1,0
+"('clinical attribute', 'related to', 'n/a', 'biological process')",2,0
+"('clinical attribute', 'related to', 'n/a', 'disease or phenotypic feature')",117,0
+"('clinical attribute', 'treats or applied or studied to treat', 'n/a', 'cohort')",1,0
+"('cohort', 'diagnoses', 'n/a', 'disease or phenotypic feature')",1,0
+"('cohort', 'has input', 'n/a', 'chemical entity')",2,0
+"('cohort', 'has input', 'n/a', 'device')",56,0
+"('cohort', 'has input', 'n/a', 'physical entity')",4,0
+"('cohort', 'has part', 'n/a', 'anatomical entity')",262,0
+"('cohort', 'has part', 'n/a', 'cell')",89,0
+"('cohort', 'has part', 'n/a', 'cellular component')",27,0
+"('cohort', 'has part', 'n/a', 'chemical entity')",96,0
+"('cohort', 'has part', 'n/a', 'disease or phenotypic feature')",381,0
+"('cohort', 'has part', 'n/a', 'gene or gene product')",272,0
+"('cohort', 'has part', 'n/a', 'genomic entity')",4,0
+"('cohort', 'has part', 'n/a', 'gross anatomical structure')",389,0
+"('cohort', 'has part', 'n/a', 'information content entity')",5,0
+"('cohort', 'has part', 'n/a', 'organism taxon')",1,0
+"('cohort', 'has part', 'n/a', 'polypeptide')",1,0
+"('cohort', 'interacts with', 'n/a', 'agent')",2,0
+"('cohort', 'interacts with', 'n/a', 'cohort')",43,0
+"('cohort', 'interacts with', 'n/a', 'population of individual organisms')",12,0
+"('cohort', 'occurs in', 'n/a', 'population of individual organisms')",1,0
+"('cohort', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",1,0
+"('device', 'causes', 'n/a', 'disease or phenotypic feature')",717,0
+"('device', 'causes', 'n/a', 'information content entity')",3,0
+"('device', 'close match', 'n/a', 'chemical entity')",1,0
+"('device', 'close match', 'n/a', 'device')",1,0
+"('device', 'close match', 'n/a', 'procedure')",1,0
+"('device', 'diagnoses', 'n/a', 'disease or phenotypic feature')",3,0
+"('device', 'diagnoses', 'n/a', 'organism taxon')",82,0
+"('device', 'has input', 'n/a', 'agent')",4,0
+"('device', 'has input', 'n/a', 'chemical entity')",1702,0
+"('device', 'has input', 'n/a', 'device')",1620,0
+"('device', 'has input', 'n/a', 'gene or gene product')",162,0
+"('device', 'has input', 'n/a', 'physical entity')",332,0
+"('device', 'has input', 'n/a', 'procedure')",15,0
+"('device', 'has input', 'n/a', 'publication')",3,0
+"('device', 'has part', 'n/a', 'cell')",1,0
+"('device', 'has part', 'n/a', 'chemical entity')",1,0
+"('device', 'located in', 'n/a', 'gross anatomical structure')",3,0
+"('device', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",1,0
+"('device', 'treats or applied or studied to treat', 'n/a', 'agent')",3,0
+"('device', 'treats or applied or studied to treat', 'n/a', 'anatomical entity')",7,0
+"('device', 'treats or applied or studied to treat', 'n/a', 'cohort')",271,0
+"('device', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",4968,0
+"('device', 'treats or applied or studied to treat', 'n/a', 'gross anatomical structure')",65,0
+"('device', 'treats or applied or studied to treat', 'n/a', 'human')",1,0
+"('device', 'treats or applied or studied to treat', 'n/a', 'information content entity')",5,0
+"('device', 'treats or applied or studied to treat', 'n/a', 'population of individual organisms')",98,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'activity')",75,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'agent')",2,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'anatomical entity')",370,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'behavior')",477,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'biological entity')",33,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'biological process')",8251,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'cell')",55,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'cellular component')",26,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'chemical entity')",349,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'clinical attribute')",81,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'cohort')",1094,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'disease or phenotypic feature')",12231,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'gene or gene product')",264,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'genomic entity')",2,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'gross anatomical structure')",1466,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'human')",15,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'information content entity')",226,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'molecular activity')",216,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'organism taxon')",651,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'phenomenon')",445,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'physiological process')",1,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'polypeptide')",1,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'population of individual organisms')",771,0
+"('disease or phenotypic feature', 'affects', 'n/a', 'procedure')",16,0
+"('disease or phenotypic feature', 'causes', 'n/a', 'activity')",25,0
+"('disease or phenotypic feature', 'causes', 'n/a', 'anatomical entity')",22,0
+"('disease or phenotypic feature', 'causes', 'n/a', 'biological process')",1949,0
+"('disease or phenotypic feature', 'causes', 'n/a', 'clinical attribute')",5,0
+"('disease or phenotypic feature', 'causes', 'n/a', 'disease or phenotypic feature')",26894,0
+"('disease or phenotypic feature', 'causes', 'n/a', 'gene or gene product')",1,0
+"('disease or phenotypic feature', 'causes', 'n/a', 'gross anatomical structure')",2,0
+"('disease or phenotypic feature', 'causes', 'n/a', 'information content entity')",29,0
+"('disease or phenotypic feature', 'causes', 'n/a', 'molecular activity')",1,0
+"('disease or phenotypic feature', 'causes', 'n/a', 'phenomenon')",10,0
+"('disease or phenotypic feature', 'causes', 'n/a', 'procedure')",10,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'activity')",22,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'anatomical entity')",19,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'behavior')",34,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'biological entity')",136,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'biological process')",331,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'cellular component')",2,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'chemical entity')",558,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'clinical attribute')",145,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'cohort')",15,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'disease or phenotypic feature')",80902,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'event')",14,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'gene or gene product')",170,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'gross anatomical structure')",5,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'information content entity')",329,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'molecular activity')",46,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'organism taxon')",529,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'phenomenon')",17,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'physical entity')",2,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'polypeptide')",2,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'population of individual organisms')",86,0
+"('disease or phenotypic feature', 'coexists with', 'n/a', 'procedure')",100,0
+"('disease or phenotypic feature', 'derives from', 'n/a', 'chemical entity')",4,0
+"('disease or phenotypic feature', 'derives from', 'n/a', 'gene or gene product')",6,0
+"('disease or phenotypic feature', 'diagnoses', 'n/a', 'anatomical entity')",1,0
+"('disease or phenotypic feature', 'diagnoses', 'n/a', 'clinical attribute')",2,0
+"('disease or phenotypic feature', 'diagnoses', 'n/a', 'disease or phenotypic feature')",312,0
+"('disease or phenotypic feature', 'diagnoses', 'n/a', 'organism taxon')",1,0
+"('disease or phenotypic feature', 'disrupts', 'n/a', 'activity')",6,0
+"('disease or phenotypic feature', 'disrupts', 'n/a', 'anatomical entity')",22,0
+"('disease or phenotypic feature', 'disrupts', 'n/a', 'biological process')",509,0
+"('disease or phenotypic feature', 'disrupts', 'n/a', 'cell')",337,0
+"('disease or phenotypic feature', 'disrupts', 'n/a', 'cellular component')",14,0
+"('disease or phenotypic feature', 'disrupts', 'n/a', 'clinical attribute')",1,0
+"('disease or phenotypic feature', 'disrupts', 'n/a', 'disease or phenotypic feature')",41,0
+"('disease or phenotypic feature', 'disrupts', 'n/a', 'gross anatomical structure')",57,0
+"('disease or phenotypic feature', 'disrupts', 'n/a', 'information content entity')",11,0
+"('disease or phenotypic feature', 'disrupts', 'n/a', 'molecular activity')",24,0
+"('disease or phenotypic feature', 'disrupts', 'n/a', 'phenomenon')",15,0
+"('disease or phenotypic feature', 'disrupts', 'n/a', 'procedure')",1,0
+"('disease or phenotypic feature', 'exacerbates condition', 'n/a', 'disease or phenotypic feature')",1336,0
+"('disease or phenotypic feature', 'has input', 'n/a', 'chemical entity')",31,0
+"('disease or phenotypic feature', 'has input', 'n/a', 'device')",10,0
+"('disease or phenotypic feature', 'has input', 'n/a', 'gene or gene product')",2,0
+"('disease or phenotypic feature', 'has input', 'n/a', 'physical entity')",1,0
+"('disease or phenotypic feature', 'has part', 'n/a', 'anatomical entity')",647,0
+"('disease or phenotypic feature', 'has part', 'n/a', 'cell')",33,0
+"('disease or phenotypic feature', 'has part', 'n/a', 'cellular component')",253,0
+"('disease or phenotypic feature', 'has part', 'n/a', 'chemical entity')",111,0
+"('disease or phenotypic feature', 'has part', 'n/a', 'disease or phenotypic feature')",283,0
+"('disease or phenotypic feature', 'has part', 'n/a', 'gene or gene product')",1521,0
+"('disease or phenotypic feature', 'has part', 'n/a', 'genomic entity')",24,0
+"('disease or phenotypic feature', 'has part', 'n/a', 'gross anatomical structure')",620,0
+"('disease or phenotypic feature', 'has part', 'n/a', 'information content entity')",5,0
+"('disease or phenotypic feature', 'has part', 'n/a', 'polypeptide')",3,0
+"('disease or phenotypic feature', 'interacts with', 'n/a', 'cell')",4,0
+"('disease or phenotypic feature', 'interacts with', 'n/a', 'chemical entity')",26,0
+"('disease or phenotypic feature', 'interacts with', 'n/a', 'disease or phenotypic feature')",2,0
+"('disease or phenotypic feature', 'interacts with', 'n/a', 'gene or gene product')",7,0
+"('disease or phenotypic feature', 'interacts with', 'n/a', 'organism taxon')",321,0
+"('disease or phenotypic feature', 'located in', 'n/a', 'agent')",3,0
+"('disease or phenotypic feature', 'located in', 'n/a', 'anatomical entity')",37550,0
+"('disease or phenotypic feature', 'located in', 'n/a', 'cell')",2770,0
+"('disease or phenotypic feature', 'located in', 'n/a', 'cellular component')",696,0
+"('disease or phenotypic feature', 'located in', 'n/a', 'chemical entity')",179,0
+"('disease or phenotypic feature', 'located in', 'n/a', 'clinical attribute')",8,0
+"('disease or phenotypic feature', 'located in', 'n/a', 'cohort')",331,0
+"('disease or phenotypic feature', 'located in', 'n/a', 'device')",2,0
+"('disease or phenotypic feature', 'located in', 'n/a', 'disease or phenotypic feature')",342,0
+"('disease or phenotypic feature', 'located in', 'n/a', 'gene or gene product')",12,0
+"('disease or phenotypic feature', 'located in', 'n/a', 'gross anatomical structure')",68724,0
+"('disease or phenotypic feature', 'located in', 'n/a', 'information content entity')",489,0
+"('disease or phenotypic feature', 'located in', 'n/a', 'organism taxon')",45,0
+"('disease or phenotypic feature', 'located in', 'n/a', 'physical entity')",6,0
+"('disease or phenotypic feature', 'located in', 'n/a', 'population of individual organisms')",66,0
+"('disease or phenotypic feature', 'located in', 'n/a', 'publication')",215,0
+"('disease or phenotypic feature', 'manifestation of', 'n/a', 'activity')",3,0
+"('disease or phenotypic feature', 'manifestation of', 'n/a', 'biological entity')",1,0
+"('disease or phenotypic feature', 'manifestation of', 'n/a', 'biological process')",612,0
+"('disease or phenotypic feature', 'manifestation of', 'n/a', 'disease or phenotypic feature')",1779,0
+"('disease or phenotypic feature', 'manifestation of', 'n/a', 'gross anatomical structure')",3,0
+"('disease or phenotypic feature', 'manifestation of', 'n/a', 'information content entity')",13,0
+"('disease or phenotypic feature', 'manifestation of', 'n/a', 'molecular activity')",2,0
+"('disease or phenotypic feature', 'manifestation of', 'n/a', 'phenomenon')",6,0
+"('disease or phenotypic feature', 'occurs in', 'n/a', 'agent')",117,0
+"('disease or phenotypic feature', 'occurs in', 'n/a', 'anatomical entity')",13,0
+"('disease or phenotypic feature', 'occurs in', 'n/a', 'behavior')",1,0
+"('disease or phenotypic feature', 'occurs in', 'n/a', 'biological entity')",1153,0
+"('disease or phenotypic feature', 'occurs in', 'n/a', 'cell')",4,0
+"('disease or phenotypic feature', 'occurs in', 'n/a', 'cellular component')",1,0
+"('disease or phenotypic feature', 'occurs in', 'n/a', 'chemical entity')",46,0
+"('disease or phenotypic feature', 'occurs in', 'n/a', 'cohort')",12348,0
+"('disease or phenotypic feature', 'occurs in', 'n/a', 'disease or phenotypic feature')",973,0
+"('disease or phenotypic feature', 'occurs in', 'n/a', 'gene or gene product')",952,0
+"('disease or phenotypic feature', 'occurs in', 'n/a', 'genomic entity')",8,0
+"('disease or phenotypic feature', 'occurs in', 'n/a', 'gross anatomical structure')",2010,0
+"('disease or phenotypic feature', 'occurs in', 'n/a', 'human')",113,0
+"('disease or phenotypic feature', 'occurs in', 'n/a', 'information content entity')",77,0
+"('disease or phenotypic feature', 'occurs in', 'n/a', 'organism taxon')",3524,0
+"('disease or phenotypic feature', 'occurs in', 'n/a', 'population of individual organisms')",7598,0
+"('disease or phenotypic feature', 'precedes', 'n/a', 'activity')",2,0
+"('disease or phenotypic feature', 'precedes', 'n/a', 'behavior')",2,0
+"('disease or phenotypic feature', 'precedes', 'n/a', 'biological entity')",9,0
+"('disease or phenotypic feature', 'precedes', 'n/a', 'biological process')",331,0
+"('disease or phenotypic feature', 'precedes', 'n/a', 'clinical attribute')",1,0
+"('disease or phenotypic feature', 'precedes', 'n/a', 'disease or phenotypic feature')",3727,0
+"('disease or phenotypic feature', 'precedes', 'n/a', 'gross anatomical structure')",1,0
+"('disease or phenotypic feature', 'precedes', 'n/a', 'information content entity')",7,0
+"('disease or phenotypic feature', 'precedes', 'n/a', 'molecular activity')",38,0
+"('disease or phenotypic feature', 'precedes', 'n/a', 'phenomenon')",2,0
+"('disease or phenotypic feature', 'precedes', 'n/a', 'procedure')",21,0
+"('disease or phenotypic feature', 'predisposes to condition', 'n/a', 'anatomical entity')",10,0
+"('disease or phenotypic feature', 'predisposes to condition', 'n/a', 'behavior')",3,0
+"('disease or phenotypic feature', 'predisposes to condition', 'n/a', 'biological process')",40,0
+"('disease or phenotypic feature', 'predisposes to condition', 'n/a', 'clinical attribute')",8,0
+"('disease or phenotypic feature', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",10724,0
+"('disease or phenotypic feature', 'predisposes to condition', 'n/a', 'information content entity')",32,0
+"('disease or phenotypic feature', 'predisposes to condition', 'n/a', 'procedure')",3,0
+"('disease or phenotypic feature', 'produces', 'n/a', 'anatomical entity')",48,0
+"('disease or phenotypic feature', 'produces', 'n/a', 'cellular component')",1,0
+"('disease or phenotypic feature', 'produces', 'n/a', 'chemical entity')",482,0
+"('disease or phenotypic feature', 'produces', 'n/a', 'gene or gene product')",1164,0
+"('disease or phenotypic feature', 'produces', 'n/a', 'genomic entity')",2,0
+"('disease or phenotypic feature', 'produces', 'n/a', 'gross anatomical structure')",14,0
+"('disease or phenotypic feature', 'produces', 'n/a', 'polypeptide')",3,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'activity')",14,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'anatomical entity')",3,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'biological process')",1365,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'chemical entity')",288,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'clinical attribute')",15,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'disease or phenotypic feature')",8577,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'gene or gene product')",2238,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'genomic entity')",36,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'gross anatomical structure')",1,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'information content entity')",2,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'molecular activity')",570,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'organism taxon')",737,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'phenomenon')",1,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'procedure')",2,0
+"('disease or phenotypic feature', 'treats or applied or studied to treat', 'n/a', 'cell')",1,0
+"('disease or phenotypic feature', 'treats or applied or studied to treat', 'n/a', 'cohort')",7,0
+"('disease or phenotypic feature', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",90,0
+"('disease or phenotypic feature', 'treats or applied or studied to treat', 'n/a', 'gross anatomical structure')",2,0
+"('disease or phenotypic feature', 'treats or applied or studied to treat', 'n/a', 'population of individual organisms')",2,0
+"('event', 'coexists with', 'n/a', 'disease or phenotypic feature')",1,0
+"('event', 'occurs in', 'n/a', 'cohort')",4,0
+"('event', 'occurs in', 'n/a', 'gross anatomical structure')",1,0
+"('event', 'occurs in', 'n/a', 'population of individual organisms')",4,0
+"('gene or gene product', 'affects', 'causes', 'chemical entity')",1457,0
+"('gene or gene product', 'affects', 'causes', 'gene or gene product')",3800,0
+"('gene or gene product', 'affects', 'n/a', 'activity')",233,0
+"('gene or gene product', 'affects', 'n/a', 'anatomical entity')",2511,0
+"('gene or gene product', 'affects', 'n/a', 'behavior')",22,0
+"('gene or gene product', 'affects', 'n/a', 'biological entity')",82,0
+"('gene or gene product', 'affects', 'n/a', 'biological process')",46820,0
+"('gene or gene product', 'affects', 'n/a', 'cell')",9550,0
+"('gene or gene product', 'affects', 'n/a', 'cellular component')",2766,0
+"('gene or gene product', 'affects', 'n/a', 'chemical entity')",11713,0
+"('gene or gene product', 'affects', 'n/a', 'clinical attribute')",90,0
+"('gene or gene product', 'affects', 'n/a', 'disease or phenotypic feature')",18093,0
+"('gene or gene product', 'affects', 'n/a', 'gene or gene product')",34187,0
+"('gene or gene product', 'affects', 'n/a', 'genomic entity')",141,0
+"('gene or gene product', 'affects', 'n/a', 'gross anatomical structure')",7048,0
+"('gene or gene product', 'affects', 'n/a', 'information content entity')",708,0
+"('gene or gene product', 'affects', 'n/a', 'molecular activity')",7733,0
+"('gene or gene product', 'affects', 'n/a', 'organism taxon')",159,0
+"('gene or gene product', 'affects', 'n/a', 'phenomenon')",2217,0
+"('gene or gene product', 'affects', 'n/a', 'physiological process')",44,0
+"('gene or gene product', 'affects', 'n/a', 'polypeptide')",191,0
+"('gene or gene product', 'affects', 'n/a', 'procedure')",45,0
+"('gene or gene product', 'causes', 'n/a', 'activity')",16,0
+"('gene or gene product', 'causes', 'n/a', 'anatomical entity')",11,0
+"('gene or gene product', 'causes', 'n/a', 'behavior')",1,0
+"('gene or gene product', 'causes', 'n/a', 'biological process')",5637,0
+"('gene or gene product', 'causes', 'n/a', 'clinical attribute')",3,0
+"('gene or gene product', 'causes', 'n/a', 'disease or phenotypic feature')",10614,0
+"('gene or gene product', 'causes', 'n/a', 'gene or gene product')",4,0
+"('gene or gene product', 'causes', 'n/a', 'information content entity')",125,0
+"('gene or gene product', 'causes', 'n/a', 'molecular activity')",512,0
+"('gene or gene product', 'causes', 'n/a', 'phenomenon')",111,0
+"('gene or gene product', 'causes', 'n/a', 'physiological process')",5,0
+"('gene or gene product', 'causes', 'n/a', 'procedure')",13,0
+"('gene or gene product', 'close match', 'n/a', 'chemical entity')",6,0
+"('gene or gene product', 'close match', 'n/a', 'gene or gene product')",8,0
+"('gene or gene product', 'close match', 'n/a', 'procedure')",4,0
+"('gene or gene product', 'coexists with', 'n/a', 'cellular component')",42,0
+"('gene or gene product', 'coexists with', 'n/a', 'chemical entity')",8667,0
+"('gene or gene product', 'coexists with', 'n/a', 'disease or phenotypic feature')",148,0
+"('gene or gene product', 'coexists with', 'n/a', 'gene or gene product')",10223,0
+"('gene or gene product', 'coexists with', 'n/a', 'genomic entity')",79,0
+"('gene or gene product', 'coexists with', 'n/a', 'information content entity')",4,0
+"('gene or gene product', 'coexists with', 'n/a', 'molecular activity')",1,0
+"('gene or gene product', 'coexists with', 'n/a', 'polypeptide')",140,0
+"('gene or gene product', 'derives from', 'n/a', 'chemical entity')",232,0
+"('gene or gene product', 'derives from', 'n/a', 'gene or gene product')",706,0
+"('gene or gene product', 'derives from', 'n/a', 'genomic entity')",2,0
+"('gene or gene product', 'derives from', 'n/a', 'organism taxon')",1,0
+"('gene or gene product', 'derives from', 'n/a', 'polypeptide')",7,0
+"('gene or gene product', 'disrupts', 'n/a', 'activity')",7,0
+"('gene or gene product', 'disrupts', 'n/a', 'anatomical entity')",231,0
+"('gene or gene product', 'disrupts', 'n/a', 'behavior')",2,0
+"('gene or gene product', 'disrupts', 'n/a', 'biological process')",8709,0
+"('gene or gene product', 'disrupts', 'n/a', 'cell')",2468,0
+"('gene or gene product', 'disrupts', 'n/a', 'cellular component')",360,0
+"('gene or gene product', 'disrupts', 'n/a', 'chemical entity')",1,0
+"('gene or gene product', 'disrupts', 'n/a', 'clinical attribute')",3,0
+"('gene or gene product', 'disrupts', 'n/a', 'disease or phenotypic feature')",3059,0
+"('gene or gene product', 'disrupts', 'n/a', 'gross anatomical structure')",726,0
+"('gene or gene product', 'disrupts', 'n/a', 'information content entity')",108,0
+"('gene or gene product', 'disrupts', 'n/a', 'molecular activity')",1716,0
+"('gene or gene product', 'disrupts', 'n/a', 'organism taxon')",13,0
+"('gene or gene product', 'disrupts', 'n/a', 'phenomenon')",176,0
+"('gene or gene product', 'disrupts', 'n/a', 'procedure')",16,0
+"('gene or gene product', 'exacerbates condition', 'n/a', 'disease or phenotypic feature')",14,0
+"('gene or gene product', 'has input', 'n/a', 'chemical entity')",14,0
+"('gene or gene product', 'has input', 'n/a', 'gene or gene product')",1,0
+"('gene or gene product', 'has input', 'n/a', 'genomic entity')",2,0
+"('gene or gene product', 'has part', 'n/a', 'anatomical entity')",1,0
+"('gene or gene product', 'has part', 'n/a', 'cellular component')",6,0
+"('gene or gene product', 'has part', 'n/a', 'chemical entity')",9030,0
+"('gene or gene product', 'has part', 'n/a', 'disease or phenotypic feature')",3,0
+"('gene or gene product', 'has part', 'n/a', 'gene or gene product')",7668,0
+"('gene or gene product', 'has part', 'n/a', 'polypeptide')",1149,0
+"('gene or gene product', 'interacts with', 'n/a', 'cell')",12293,0
+"('gene or gene product', 'interacts with', 'n/a', 'cellular component')",92,0
+"('gene or gene product', 'interacts with', 'n/a', 'chemical entity')",22795,0
+"('gene or gene product', 'interacts with', 'n/a', 'disease or phenotypic feature')",14,0
+"('gene or gene product', 'interacts with', 'n/a', 'gene or gene product')",26194,0
+"('gene or gene product', 'interacts with', 'n/a', 'genomic entity')",73,0
+"('gene or gene product', 'interacts with', 'n/a', 'information content entity')",4,0
+"('gene or gene product', 'interacts with', 'n/a', 'molecular activity')",9,0
+"('gene or gene product', 'interacts with', 'n/a', 'organism taxon')",826,0
+"('gene or gene product', 'interacts with', 'n/a', 'phenomenon')",14,0
+"('gene or gene product', 'interacts with', 'n/a', 'polypeptide')",525,0
+"('gene or gene product', 'located in', 'n/a', 'agent')",67,0
+"('gene or gene product', 'located in', 'n/a', 'anatomical entity')",25320,0
+"('gene or gene product', 'located in', 'n/a', 'cell')",38776,0
+"('gene or gene product', 'located in', 'n/a', 'cellular component')",12072,0
+"('gene or gene product', 'located in', 'n/a', 'chemical entity')",145,0
+"('gene or gene product', 'located in', 'n/a', 'cohort')",1507,0
+"('gene or gene product', 'located in', 'n/a', 'disease or phenotypic feature')",307,0
+"('gene or gene product', 'located in', 'n/a', 'gene or gene product')",6,0
+"('gene or gene product', 'located in', 'n/a', 'gross anatomical structure')",37414,0
+"('gene or gene product', 'located in', 'n/a', 'human')",184,0
+"('gene or gene product', 'located in', 'n/a', 'information content entity')",160,0
+"('gene or gene product', 'located in', 'n/a', 'organism taxon')",16263,0
+"('gene or gene product', 'located in', 'n/a', 'population of individual organisms')",970,0
+"('gene or gene product', 'occurs in', 'n/a', 'cell')",4,0
+"('gene or gene product', 'occurs in', 'n/a', 'gross anatomical structure')",2,0
+"('gene or gene product', 'occurs in', 'n/a', 'population of individual organisms')",1,0
+"('gene or gene product', 'precedes', 'n/a', 'procedure')",16,0
+"('gene or gene product', 'predisposes to condition', 'n/a', 'biological process')",1,0
+"('gene or gene product', 'predisposes to condition', 'n/a', 'clinical attribute')",1,0
+"('gene or gene product', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",4888,0
+"('gene or gene product', 'predisposes to condition', 'n/a', 'information content entity')",6,0
+"('gene or gene product', 'predisposes to condition', 'n/a', 'procedure')",1,0
+"('gene or gene product', 'produces', 'n/a', 'anatomical entity')",357,0
+"('gene or gene product', 'produces', 'n/a', 'cellular component')",1,0
+"('gene or gene product', 'produces', 'n/a', 'chemical entity')",4051,0
+"('gene or gene product', 'produces', 'n/a', 'disease or phenotypic feature')",2,0
+"('gene or gene product', 'produces', 'n/a', 'gene or gene product')",5544,0
+"('gene or gene product', 'produces', 'n/a', 'genomic entity')",51,0
+"('gene or gene product', 'produces', 'n/a', 'gross anatomical structure')",1,0
+"('gene or gene product', 'produces', 'n/a', 'polypeptide')",74,0
+"('gene or gene product', 'related to', 'n/a', 'anatomical entity')",4,0
+"('gene or gene product', 'related to', 'n/a', 'biological process')",20,0
+"('gene or gene product', 'related to', 'n/a', 'cell')",3,0
+"('gene or gene product', 'related to', 'n/a', 'chemical entity')",2,0
+"('gene or gene product', 'related to', 'n/a', 'clinical attribute')",18,0
+"('gene or gene product', 'related to', 'n/a', 'disease or phenotypic feature')",50817,0
+"('gene or gene product', 'related to', 'n/a', 'gene or gene product')",123,0
+"('gene or gene product', 'related to', 'n/a', 'gross anatomical structure')",3,0
+"('gene or gene product', 'related to', 'n/a', 'information content entity')",84,0
+"('gene or gene product', 'related to', 'n/a', 'procedure')",8,0
+"('gene or gene product', 'treats or applied or studied to treat', 'n/a', 'anatomical entity')",1,0
+"('gene or gene product', 'treats or applied or studied to treat', 'n/a', 'biological entity')",12,0
+"('gene or gene product', 'treats or applied or studied to treat', 'n/a', 'cell')",3018,0
+"('gene or gene product', 'treats or applied or studied to treat', 'n/a', 'cellular component')",12,0
+"('gene or gene product', 'treats or applied or studied to treat', 'n/a', 'cohort')",233,0
+"('gene or gene product', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",4548,0
+"('gene or gene product', 'treats or applied or studied to treat', 'n/a', 'gene or gene product')",1,0
+"('gene or gene product', 'treats or applied or studied to treat', 'n/a', 'gross anatomical structure')",15,0
+"('gene or gene product', 'treats or applied or studied to treat', 'n/a', 'human')",11,0
+"('gene or gene product', 'treats or applied or studied to treat', 'n/a', 'information content entity')",12,0
+"('gene or gene product', 'treats or applied or studied to treat', 'n/a', 'organism taxon')",164,0
+"('gene or gene product', 'treats or applied or studied to treat', 'n/a', 'population of individual organisms')",95,0
+"('genomic entity', 'affects', 'n/a', 'anatomical entity')",4,0
+"('genomic entity', 'affects', 'n/a', 'biological process')",159,0
+"('genomic entity', 'affects', 'n/a', 'cell')",15,0
+"('genomic entity', 'affects', 'n/a', 'cellular component')",7,0
+"('genomic entity', 'affects', 'n/a', 'chemical entity')",30,0
+"('genomic entity', 'affects', 'n/a', 'disease or phenotypic feature')",109,0
+"('genomic entity', 'affects', 'n/a', 'gene or gene product')",99,0
+"('genomic entity', 'affects', 'n/a', 'genomic entity')",4,0
+"('genomic entity', 'affects', 'n/a', 'gross anatomical structure')",6,0
+"('genomic entity', 'affects', 'n/a', 'molecular activity')",36,0
+"('genomic entity', 'affects', 'n/a', 'organism taxon')",1,0
+"('genomic entity', 'affects', 'n/a', 'phenomenon')",19,0
+"('genomic entity', 'affects', 'n/a', 'physiological process')",1,0
+"('genomic entity', 'causes', 'n/a', 'biological process')",32,0
+"('genomic entity', 'causes', 'n/a', 'disease or phenotypic feature')",57,0
+"('genomic entity', 'coexists with', 'n/a', 'chemical entity')",66,0
+"('genomic entity', 'coexists with', 'n/a', 'gene or gene product')",81,0
+"('genomic entity', 'coexists with', 'n/a', 'genomic entity')",3,0
+"('genomic entity', 'coexists with', 'n/a', 'polypeptide')",2,0
+"('genomic entity', 'derives from', 'n/a', 'gene or gene product')",4,0
+"('genomic entity', 'disrupts', 'n/a', 'biological process')",35,0
+"('genomic entity', 'disrupts', 'n/a', 'cell')",5,0
+"('genomic entity', 'disrupts', 'n/a', 'cellular component')",2,0
+"('genomic entity', 'disrupts', 'n/a', 'disease or phenotypic feature')",16,0
+"('genomic entity', 'disrupts', 'n/a', 'gross anatomical structure')",1,0
+"('genomic entity', 'disrupts', 'n/a', 'molecular activity')",6,0
+"('genomic entity', 'disrupts', 'n/a', 'phenomenon')",1,0
+"('genomic entity', 'has part', 'n/a', 'chemical entity')",69,0
+"('genomic entity', 'has part', 'n/a', 'gene or gene product')",23,0
+"('genomic entity', 'has part', 'n/a', 'polypeptide')",2,0
+"('genomic entity', 'interacts with', 'n/a', 'cell')",24,0
+"('genomic entity', 'interacts with', 'n/a', 'chemical entity')",57,0
+"('genomic entity', 'interacts with', 'n/a', 'gene or gene product')",70,0
+"('genomic entity', 'interacts with', 'n/a', 'genomic entity')",1,0
+"('genomic entity', 'interacts with', 'n/a', 'organism taxon')",4,0
+"('genomic entity', 'interacts with', 'n/a', 'polypeptide')",5,0
+"('genomic entity', 'located in', 'n/a', 'agent')",1,0
+"('genomic entity', 'located in', 'n/a', 'anatomical entity')",108,0
+"('genomic entity', 'located in', 'n/a', 'cell')",143,0
+"('genomic entity', 'located in', 'n/a', 'cellular component')",48,0
+"('genomic entity', 'located in', 'n/a', 'cohort')",19,0
+"('genomic entity', 'located in', 'n/a', 'disease or phenotypic feature')",6,0
+"('genomic entity', 'located in', 'n/a', 'gross anatomical structure')",120,0
+"('genomic entity', 'located in', 'n/a', 'human')",1,0
+"('genomic entity', 'located in', 'n/a', 'organism taxon')",115,0
+"('genomic entity', 'located in', 'n/a', 'population of individual organisms')",57,0
+"('genomic entity', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",88,0
+"('genomic entity', 'produces', 'n/a', 'chemical entity')",16,0
+"('genomic entity', 'produces', 'n/a', 'gene or gene product')",28,0
+"('genomic entity', 'produces', 'n/a', 'genomic entity')",1,0
+"('genomic entity', 'produces', 'n/a', 'gross anatomical structure')",1,0
+"('genomic entity', 'related to', 'n/a', 'disease or phenotypic feature')",415,0
+"('genomic entity', 'related to', 'n/a', 'gene or gene product')",4,0
+"('genomic entity', 'treats or applied or studied to treat', 'n/a', 'cell')",11,0
+"('genomic entity', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",13,0
+"('gross anatomical structure', 'affects', 'n/a', 'activity')",2,0
+"('gross anatomical structure', 'affects', 'n/a', 'behavior')",1,0
+"('gross anatomical structure', 'affects', 'n/a', 'biological process')",126,0
+"('gross anatomical structure', 'affects', 'n/a', 'cohort')",1,0
+"('gross anatomical structure', 'affects', 'n/a', 'disease or phenotypic feature')",214,0
+"('gross anatomical structure', 'affects', 'n/a', 'information content entity')",5,0
+"('gross anatomical structure', 'affects', 'n/a', 'phenomenon')",7,0
+"('gross anatomical structure', 'causes', 'n/a', 'disease or phenotypic feature')",9,0
+"('gross anatomical structure', 'coexists with', 'n/a', 'disease or phenotypic feature')",15,0
+"('gross anatomical structure', 'has input', 'n/a', 'chemical entity')",1,0
+"('gross anatomical structure', 'has input', 'n/a', 'device')",3,0
+"('gross anatomical structure', 'has part', 'n/a', 'anatomical entity')",7273,0
+"('gross anatomical structure', 'has part', 'n/a', 'cell')",4397,0
+"('gross anatomical structure', 'has part', 'n/a', 'cellular component')",1871,0
+"('gross anatomical structure', 'has part', 'n/a', 'chemical entity')",3770,0
+"('gross anatomical structure', 'has part', 'n/a', 'disease or phenotypic feature')",213,0
+"('gross anatomical structure', 'has part', 'n/a', 'gene or gene product')",9898,0
+"('gross anatomical structure', 'has part', 'n/a', 'genomic entity')",70,0
+"('gross anatomical structure', 'has part', 'n/a', 'gross anatomical structure')",5985,0
+"('gross anatomical structure', 'has part', 'n/a', 'information content entity')",98,0
+"('gross anatomical structure', 'has part', 'n/a', 'organism taxon')",11,0
+"('gross anatomical structure', 'has part', 'n/a', 'polypeptide')",81,0
+"('gross anatomical structure', 'has part', 'n/a', 'procedure')",1,0
+"('gross anatomical structure', 'has part', 'n/a', 'publication')",125,0
+"('gross anatomical structure', 'interacts with', 'n/a', 'organism taxon')",1,0
+"('gross anatomical structure', 'located in', 'n/a', 'anatomical entity')",1266,0
+"('gross anatomical structure', 'located in', 'n/a', 'cell')",21,0
+"('gross anatomical structure', 'located in', 'n/a', 'cellular component')",18,0
+"('gross anatomical structure', 'located in', 'n/a', 'clinical attribute')",10,0
+"('gross anatomical structure', 'located in', 'n/a', 'disease or phenotypic feature')",4,0
+"('gross anatomical structure', 'located in', 'n/a', 'gross anatomical structure')",1718,0
+"('gross anatomical structure', 'located in', 'n/a', 'information content entity')",56,0
+"('gross anatomical structure', 'located in', 'n/a', 'organism taxon')",2,0
+"('gross anatomical structure', 'located in', 'n/a', 'publication')",3,0
+"('gross anatomical structure', 'occurs in', 'n/a', 'cohort')",3,0
+"('gross anatomical structure', 'occurs in', 'n/a', 'disease or phenotypic feature')",2,0
+"('gross anatomical structure', 'occurs in', 'n/a', 'organism taxon')",1,0
+"('gross anatomical structure', 'occurs in', 'n/a', 'population of individual organisms')",2,0
+"('gross anatomical structure', 'precedes', 'n/a', 'disease or phenotypic feature')",4,0
+"('gross anatomical structure', 'produces', 'n/a', 'anatomical entity')",79,0
+"('gross anatomical structure', 'produces', 'n/a', 'chemical entity')",816,0
+"('gross anatomical structure', 'produces', 'n/a', 'gene or gene product')",1181,0
+"('gross anatomical structure', 'produces', 'n/a', 'genomic entity')",6,0
+"('gross anatomical structure', 'produces', 'n/a', 'polypeptide')",10,0
+"('gross anatomical structure', 'related to', 'n/a', 'biological process')",1,0
+"('gross anatomical structure', 'related to', 'n/a', 'disease or phenotypic feature')",141,0
+"('gross anatomical structure', 'related to', 'n/a', 'information content entity')",2,0
+"('human', 'has part', 'n/a', 'anatomical entity')",22,0
+"('human', 'has part', 'n/a', 'cell')",9,0
+"('human', 'has part', 'n/a', 'cellular component')",5,0
+"('human', 'has part', 'n/a', 'chemical entity')",5,0
+"('human', 'has part', 'n/a', 'disease or phenotypic feature')",4,0
+"('human', 'has part', 'n/a', 'gene or gene product')",29,0
+"('human', 'has part', 'n/a', 'gross anatomical structure')",27,0
+"('human', 'has part', 'n/a', 'information content entity')",1,0
+"('information content entity', 'affects', 'n/a', 'activity')",4,0
+"('information content entity', 'affects', 'n/a', 'anatomical entity')",1,0
+"('information content entity', 'affects', 'n/a', 'behavior')",29,0
+"('information content entity', 'affects', 'n/a', 'biological process')",194,0
+"('information content entity', 'affects', 'n/a', 'cell')",1,0
+"('information content entity', 'affects', 'n/a', 'chemical entity')",7,0
+"('information content entity', 'affects', 'n/a', 'clinical attribute')",2,0
+"('information content entity', 'affects', 'n/a', 'cohort')",4,0
+"('information content entity', 'affects', 'n/a', 'disease or phenotypic feature')",217,0
+"('information content entity', 'affects', 'n/a', 'gene or gene product')",10,0
+"('information content entity', 'affects', 'n/a', 'genomic entity')",1,0
+"('information content entity', 'affects', 'n/a', 'gross anatomical structure')",7,0
+"('information content entity', 'affects', 'n/a', 'information content entity')",5,0
+"('information content entity', 'affects', 'n/a', 'molecular activity')",10,0
+"('information content entity', 'affects', 'n/a', 'organism taxon')",21,0
+"('information content entity', 'affects', 'n/a', 'phenomenon')",21,0
+"('information content entity', 'affects', 'n/a', 'population of individual organisms')",2,0
+"('information content entity', 'causes', 'n/a', 'biological process')",3,0
+"('information content entity', 'causes', 'n/a', 'clinical attribute')",1,0
+"('information content entity', 'causes', 'n/a', 'disease or phenotypic feature')",82,0
+"('information content entity', 'coexists with', 'n/a', 'activity')",3,0
+"('information content entity', 'coexists with', 'n/a', 'biological process')",97,0
+"('information content entity', 'coexists with', 'n/a', 'chemical entity')",15,0
+"('information content entity', 'coexists with', 'n/a', 'clinical attribute')",1,0
+"('information content entity', 'coexists with', 'n/a', 'disease or phenotypic feature')",530,0
+"('information content entity', 'coexists with', 'n/a', 'gene or gene product')",9,0
+"('information content entity', 'coexists with', 'n/a', 'genomic entity')",2,0
+"('information content entity', 'coexists with', 'n/a', 'information content entity')",1,0
+"('information content entity', 'coexists with', 'n/a', 'molecular activity')",3,0
+"('information content entity', 'coexists with', 'n/a', 'phenomenon')",1,0
+"('information content entity', 'diagnoses', 'n/a', 'biological entity')",1,0
+"('information content entity', 'diagnoses', 'n/a', 'disease or phenotypic feature')",80,0
+"('information content entity', 'diagnoses', 'n/a', 'phenomenon')",1,0
+"('information content entity', 'diagnoses', 'n/a', 'population of individual organisms')",1,0
+"('information content entity', 'diagnoses', 'n/a', 'procedure')",1,0
+"('information content entity', 'disrupts', 'n/a', 'biological process')",2,0
+"('information content entity', 'disrupts', 'n/a', 'disease or phenotypic feature')",5,0
+"('information content entity', 'disrupts', 'n/a', 'phenomenon')",1,0
+"('information content entity', 'has input', 'n/a', 'chemical entity')",53,0
+"('information content entity', 'has input', 'n/a', 'device')",9,0
+"('information content entity', 'has input', 'n/a', 'gene or gene product')",20,0
+"('information content entity', 'has input', 'n/a', 'physical entity')",2,0
+"('information content entity', 'has input', 'n/a', 'procedure')",1,0
+"('information content entity', 'has part', 'n/a', 'anatomical entity')",58,0
+"('information content entity', 'has part', 'n/a', 'cell')",28,0
+"('information content entity', 'has part', 'n/a', 'cellular component')",9,0
+"('information content entity', 'has part', 'n/a', 'chemical entity')",13,0
+"('information content entity', 'has part', 'n/a', 'disease or phenotypic feature')",1,0
+"('information content entity', 'has part', 'n/a', 'gene or gene product')",34,0
+"('information content entity', 'has part', 'n/a', 'gross anatomical structure')",43,0
+"('information content entity', 'has part', 'n/a', 'publication')",1,0
+"('information content entity', 'interacts with', 'n/a', 'cell')",1,0
+"('information content entity', 'interacts with', 'n/a', 'chemical entity')",12,0
+"('information content entity', 'interacts with', 'n/a', 'cohort')",2,0
+"('information content entity', 'interacts with', 'n/a', 'gene or gene product')",4,0
+"('information content entity', 'located in', 'n/a', 'anatomical entity')",419,0
+"('information content entity', 'located in', 'n/a', 'cell')",7,0
+"('information content entity', 'located in', 'n/a', 'cellular component')",10,0
+"('information content entity', 'located in', 'n/a', 'clinical attribute')",1,0
+"('information content entity', 'located in', 'n/a', 'cohort')",2,0
+"('information content entity', 'located in', 'n/a', 'disease or phenotypic feature')",2,0
+"('information content entity', 'located in', 'n/a', 'gross anatomical structure')",728,0
+"('information content entity', 'located in', 'n/a', 'information content entity')",21,0
+"('information content entity', 'located in', 'n/a', 'organism taxon')",15,0
+"('information content entity', 'located in', 'n/a', 'publication')",8,0
+"('information content entity', 'manifestation of', 'n/a', 'biological process')",17,0
+"('information content entity', 'manifestation of', 'n/a', 'disease or phenotypic feature')",11,0
+"('information content entity', 'manifestation of', 'n/a', 'molecular activity')",1,0
+"('information content entity', 'occurs in', 'n/a', 'biological entity')",5,0
+"('information content entity', 'occurs in', 'n/a', 'cell')",1,0
+"('information content entity', 'occurs in', 'n/a', 'cohort')",118,0
+"('information content entity', 'occurs in', 'n/a', 'disease or phenotypic feature')",14,0
+"('information content entity', 'occurs in', 'n/a', 'gene or gene product')",18,0
+"('information content entity', 'occurs in', 'n/a', 'gross anatomical structure')",10,0
+"('information content entity', 'occurs in', 'n/a', 'human')",1,0
+"('information content entity', 'occurs in', 'n/a', 'organism taxon')",4,0
+"('information content entity', 'occurs in', 'n/a', 'population of individual organisms')",85,0
+"('information content entity', 'precedes', 'n/a', 'biological process')",7,0
+"('information content entity', 'precedes', 'n/a', 'disease or phenotypic feature')",10,0
+"('information content entity', 'precedes', 'n/a', 'procedure')",25,0
+"('information content entity', 'predisposes to condition', 'n/a', 'biological process')",1,0
+"('information content entity', 'predisposes to condition', 'n/a', 'clinical attribute')",1,0
+"('information content entity', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",187,0
+"('information content entity', 'predisposes to condition', 'n/a', 'information content entity')",1,0
+"('information content entity', 'produces', 'n/a', 'anatomical entity')",2,0
+"('information content entity', 'produces', 'n/a', 'chemical entity')",26,0
+"('information content entity', 'produces', 'n/a', 'gene or gene product')",29,0
+"('information content entity', 'related to', 'n/a', 'biological process')",6,0
+"('information content entity', 'related to', 'n/a', 'chemical entity')",2,0
+"('information content entity', 'related to', 'n/a', 'clinical attribute')",3,0
+"('information content entity', 'related to', 'n/a', 'disease or phenotypic feature')",289,0
+"('information content entity', 'related to', 'n/a', 'gene or gene product')",15,0
+"('information content entity', 'treats or applied or studied to treat', 'n/a', 'cell')",1,0
+"('information content entity', 'treats or applied or studied to treat', 'n/a', 'cohort')",8,0
+"('information content entity', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",394,0
+"('information content entity', 'treats or applied or studied to treat', 'n/a', 'gross anatomical structure')",1,0
+"('information content entity', 'treats or applied or studied to treat', 'n/a', 'information content entity')",1,0
+"('information content entity', 'treats or applied or studied to treat', 'n/a', 'organism taxon')",4,0
+"('information content entity', 'treats or applied or studied to treat', 'n/a', 'population of individual organisms')",7,0
+"('molecular activity', 'affects', 'n/a', 'activity')",7,0
+"('molecular activity', 'affects', 'n/a', 'anatomical entity')",3,0
+"('molecular activity', 'affects', 'n/a', 'biological entity')",2,0
+"('molecular activity', 'affects', 'n/a', 'biological process')",852,0
+"('molecular activity', 'affects', 'n/a', 'cell')",141,0
+"('molecular activity', 'affects', 'n/a', 'cellular component')",3,0
+"('molecular activity', 'affects', 'n/a', 'chemical entity')",143,0
+"('molecular activity', 'affects', 'n/a', 'clinical attribute')",1,0
+"('molecular activity', 'affects', 'n/a', 'cohort')",3,0
+"('molecular activity', 'affects', 'n/a', 'disease or phenotypic feature')",363,0
+"('molecular activity', 'affects', 'n/a', 'gene or gene product')",1206,0
+"('molecular activity', 'affects', 'n/a', 'genomic entity')",9,0
+"('molecular activity', 'affects', 'n/a', 'information content entity')",15,0
+"('molecular activity', 'affects', 'n/a', 'molecular activity')",13,0
+"('molecular activity', 'affects', 'n/a', 'organism taxon')",18,0
+"('molecular activity', 'affects', 'n/a', 'phenomenon')",52,0
+"('molecular activity', 'affects', 'n/a', 'polypeptide')",8,0
+"('molecular activity', 'affects', 'n/a', 'procedure')",1,0
+"('molecular activity', 'causes', 'n/a', 'biological process')",401,0
+"('molecular activity', 'causes', 'n/a', 'disease or phenotypic feature')",14,0
+"('molecular activity', 'causes', 'n/a', 'molecular activity')",134,0
+"('molecular activity', 'causes', 'n/a', 'phenomenon')",1,0
+"('molecular activity', 'coexists with', 'n/a', 'activity')",4,0
+"('molecular activity', 'coexists with', 'n/a', 'anatomical entity')",2,0
+"('molecular activity', 'coexists with', 'n/a', 'biological process')",431,0
+"('molecular activity', 'coexists with', 'n/a', 'chemical entity')",23,0
+"('molecular activity', 'coexists with', 'n/a', 'disease or phenotypic feature')",988,0
+"('molecular activity', 'coexists with', 'n/a', 'gene or gene product')",4,0
+"('molecular activity', 'coexists with', 'n/a', 'information content entity')",6,0
+"('molecular activity', 'coexists with', 'n/a', 'molecular activity')",19,0
+"('molecular activity', 'coexists with', 'n/a', 'phenomenon')",11,0
+"('molecular activity', 'coexists with', 'n/a', 'procedure')",3,0
+"('molecular activity', 'derives from', 'n/a', 'gene or gene product')",1,0
+"('molecular activity', 'disrupts', 'n/a', 'biological process')",9,0
+"('molecular activity', 'disrupts', 'n/a', 'cell')",1,0
+"('molecular activity', 'disrupts', 'n/a', 'molecular activity')",1,0
+"('molecular activity', 'has input', 'n/a', 'chemical entity')",86,0
+"('molecular activity', 'has input', 'n/a', 'gene or gene product')",19,0
+"('molecular activity', 'interacts with', 'n/a', 'chemical entity')",8,0
+"('molecular activity', 'interacts with', 'n/a', 'gene or gene product')",9,0
+"('molecular activity', 'interacts with', 'n/a', 'polypeptide')",1,0
+"('molecular activity', 'located in', 'n/a', 'anatomical entity')",96,0
+"('molecular activity', 'located in', 'n/a', 'cell')",267,0
+"('molecular activity', 'located in', 'n/a', 'cellular component')",2031,0
+"('molecular activity', 'located in', 'n/a', 'chemical entity')",36,0
+"('molecular activity', 'located in', 'n/a', 'disease or phenotypic feature')",3,0
+"('molecular activity', 'located in', 'n/a', 'gross anatomical structure')",15,0
+"('molecular activity', 'located in', 'n/a', 'information content entity')",2,0
+"('molecular activity', 'located in', 'n/a', 'organism taxon')",43,0
+"('molecular activity', 'located in', 'n/a', 'polypeptide')",2,0
+"('molecular activity', 'occurs in', 'n/a', 'agent')",2,0
+"('molecular activity', 'occurs in', 'n/a', 'anatomical entity')",338,0
+"('molecular activity', 'occurs in', 'n/a', 'biological entity')",17,0
+"('molecular activity', 'occurs in', 'n/a', 'cell')",3340,0
+"('molecular activity', 'occurs in', 'n/a', 'cellular component')",29,0
+"('molecular activity', 'occurs in', 'n/a', 'chemical entity')",8,0
+"('molecular activity', 'occurs in', 'n/a', 'cohort')",62,0
+"('molecular activity', 'occurs in', 'n/a', 'disease or phenotypic feature')",314,0
+"('molecular activity', 'occurs in', 'n/a', 'gene or gene product')",173,0
+"('molecular activity', 'occurs in', 'n/a', 'genomic entity')",2,0
+"('molecular activity', 'occurs in', 'n/a', 'gross anatomical structure')",822,0
+"('molecular activity', 'occurs in', 'n/a', 'human')",8,0
+"('molecular activity', 'occurs in', 'n/a', 'organism taxon')",129,0
+"('molecular activity', 'occurs in', 'n/a', 'population of individual organisms')",60,0
+"('molecular activity', 'precedes', 'n/a', 'activity')",1,0
+"('molecular activity', 'precedes', 'n/a', 'biological process')",10,0
+"('molecular activity', 'precedes', 'n/a', 'disease or phenotypic feature')",1,0
+"('molecular activity', 'precedes', 'n/a', 'molecular activity')",1,0
+"('molecular activity', 'precedes', 'n/a', 'procedure')",1,0
+"('molecular activity', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",5,0
+"('molecular activity', 'produces', 'n/a', 'chemical entity')",14,0
+"('molecular activity', 'produces', 'n/a', 'gene or gene product')",80,0
+"('molecular activity', 'produces', 'n/a', 'polypeptide')",2,0
+"('molecular activity', 'related to', 'n/a', 'biological process')",30,0
+"('molecular activity', 'related to', 'n/a', 'chemical entity')",1,0
+"('molecular activity', 'related to', 'n/a', 'gene or gene product')",1,0
+"('molecular activity', 'treats or applied or studied to treat', 'n/a', 'cohort')",1,0
+"('molecular activity', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",67,0
+"('molecular activity', 'treats or applied or studied to treat', 'n/a', 'information content entity')",1,0
+"('molecular activity', 'treats or applied or studied to treat', 'n/a', 'organism taxon')",1,0
+"('organism taxon', 'affects', 'n/a', 'biological process')",15,0
+"('organism taxon', 'affects', 'n/a', 'cell')",2,0
+"('organism taxon', 'affects', 'n/a', 'disease or phenotypic feature')",7,0
+"('organism taxon', 'affects', 'n/a', 'gene or gene product')",2,0
+"('organism taxon', 'affects', 'n/a', 'organism taxon')",1,0
+"('organism taxon', 'causes', 'n/a', 'activity')",1,0
+"('organism taxon', 'causes', 'n/a', 'anatomical entity')",6,0
+"('organism taxon', 'causes', 'n/a', 'biological process')",124,0
+"('organism taxon', 'causes', 'n/a', 'disease or phenotypic feature')",9816,0
+"('organism taxon', 'causes', 'n/a', 'information content entity')",6,0
+"('organism taxon', 'coexists with', 'n/a', 'chemical entity')",1,0
+"('organism taxon', 'coexists with', 'n/a', 'disease or phenotypic feature')",579,0
+"('organism taxon', 'coexists with', 'n/a', 'gene or gene product')",3,0
+"('organism taxon', 'coexists with', 'n/a', 'organism taxon')",489,0
+"('organism taxon', 'disrupts', 'n/a', 'biological process')",1,0
+"('organism taxon', 'disrupts', 'n/a', 'cell')",1,0
+"('organism taxon', 'has part', 'n/a', 'anatomical entity')",513,0
+"('organism taxon', 'has part', 'n/a', 'cell')",1051,0
+"('organism taxon', 'has part', 'n/a', 'cellular component')",1493,0
+"('organism taxon', 'has part', 'n/a', 'chemical entity')",4643,0
+"('organism taxon', 'has part', 'n/a', 'disease or phenotypic feature')",455,0
+"('organism taxon', 'has part', 'n/a', 'gene or gene product')",17352,0
+"('organism taxon', 'has part', 'n/a', 'genomic entity')",74,0
+"('organism taxon', 'has part', 'n/a', 'gross anatomical structure')",852,0
+"('organism taxon', 'has part', 'n/a', 'information content entity')",42,0
+"('organism taxon', 'has part', 'n/a', 'organism taxon')",116,0
+"('organism taxon', 'has part', 'n/a', 'polypeptide')",165,0
+"('organism taxon', 'has part', 'n/a', 'publication')",1,0
+"('organism taxon', 'interacts with', 'n/a', 'agent')",1,0
+"('organism taxon', 'interacts with', 'n/a', 'cell')",5,0
+"('organism taxon', 'interacts with', 'n/a', 'chemical entity')",71,0
+"('organism taxon', 'interacts with', 'n/a', 'clinical attribute')",1,0
+"('organism taxon', 'interacts with', 'n/a', 'disease or phenotypic feature')",403,0
+"('organism taxon', 'interacts with', 'n/a', 'gene or gene product')",319,0
+"('organism taxon', 'interacts with', 'n/a', 'genomic entity')",1,0
+"('organism taxon', 'interacts with', 'n/a', 'organism taxon')",2137,0
+"('organism taxon', 'interacts with', 'n/a', 'population of individual organisms')",1,0
+"('organism taxon', 'located in', 'n/a', 'anatomical entity')",982,0
+"('organism taxon', 'located in', 'n/a', 'cell')",2186,0
+"('organism taxon', 'located in', 'n/a', 'cellular component')",768,0
+"('organism taxon', 'located in', 'n/a', 'chemical entity')",7,0
+"('organism taxon', 'located in', 'n/a', 'disease or phenotypic feature')",160,0
+"('organism taxon', 'located in', 'n/a', 'gross anatomical structure')",2321,0
+"('organism taxon', 'located in', 'n/a', 'human')",1,0
+"('organism taxon', 'located in', 'n/a', 'information content entity')",9,0
+"('organism taxon', 'located in', 'n/a', 'organism taxon')",328,0
+"('organism taxon', 'located in', 'n/a', 'publication')",1,0
+"('organism taxon', 'occurs in', 'n/a', 'cohort')",86,0
+"('organism taxon', 'occurs in', 'n/a', 'disease or phenotypic feature')",7,0
+"('organism taxon', 'occurs in', 'n/a', 'gross anatomical structure')",28,0
+"('organism taxon', 'occurs in', 'n/a', 'human')",7,0
+"('organism taxon', 'occurs in', 'n/a', 'information content entity')",1,0
+"('organism taxon', 'occurs in', 'n/a', 'organism taxon')",1,0
+"('organism taxon', 'occurs in', 'n/a', 'population of individual organisms')",71,0
+"('organism taxon', 'produces', 'n/a', 'anatomical entity')",3,0
+"('organism taxon', 'produces', 'n/a', 'chemical entity')",557,0
+"('organism taxon', 'produces', 'n/a', 'gene or gene product')",1163,0
+"('organism taxon', 'produces', 'n/a', 'genomic entity')",5,0
+"('organism taxon', 'produces', 'n/a', 'polypeptide')",2,0
+"('organism taxon', 'related to', 'n/a', 'anatomical entity')",1,0
+"('organism taxon', 'related to', 'n/a', 'disease or phenotypic feature')",1975,0
+"('organism taxon', 'treats or applied or studied to treat', 'n/a', 'cell')",3,0
+"('organism taxon', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",3,0
+"('phenomenon', 'affects', 'n/a', 'activity')",4,0
+"('phenomenon', 'affects', 'n/a', 'anatomical entity')",2,0
+"('phenomenon', 'affects', 'n/a', 'behavior')",5,0
+"('phenomenon', 'affects', 'n/a', 'biological entity')",1,0
+"('phenomenon', 'affects', 'n/a', 'biological process')",523,0
+"('phenomenon', 'affects', 'n/a', 'cell')",7,0
+"('phenomenon', 'affects', 'n/a', 'chemical entity')",9,0
+"('phenomenon', 'affects', 'n/a', 'clinical attribute')",4,0
+"('phenomenon', 'affects', 'n/a', 'cohort')",7,0
+"('phenomenon', 'affects', 'n/a', 'disease or phenotypic feature')",360,0
+"('phenomenon', 'affects', 'n/a', 'gene or gene product')",2,0
+"('phenomenon', 'affects', 'n/a', 'gross anatomical structure')",2,0
+"('phenomenon', 'affects', 'n/a', 'human')",1,0
+"('phenomenon', 'affects', 'n/a', 'information content entity')",8,0
+"('phenomenon', 'affects', 'n/a', 'molecular activity')",15,0
+"('phenomenon', 'affects', 'n/a', 'organism taxon')",91,0
+"('phenomenon', 'affects', 'n/a', 'phenomenon')",38,0
+"('phenomenon', 'affects', 'n/a', 'population of individual organisms')",4,0
+"('phenomenon', 'affects', 'n/a', 'procedure')",1,0
+"('phenomenon', 'causes', 'n/a', 'biological process')",6,0
+"('phenomenon', 'causes', 'n/a', 'disease or phenotypic feature')",88,0
+"('phenomenon', 'causes', 'n/a', 'molecular activity')",2,0
+"('phenomenon', 'coexists with', 'n/a', 'activity')",3,0
+"('phenomenon', 'coexists with', 'n/a', 'behavior')",1,0
+"('phenomenon', 'coexists with', 'n/a', 'biological process')",148,0
+"('phenomenon', 'coexists with', 'n/a', 'disease or phenotypic feature')",27,0
+"('phenomenon', 'coexists with', 'n/a', 'information content entity')",1,0
+"('phenomenon', 'coexists with', 'n/a', 'molecular activity')",3,0
+"('phenomenon', 'coexists with', 'n/a', 'phenomenon')",2,0
+"('phenomenon', 'exacerbates condition', 'n/a', 'disease or phenotypic feature')",3,0
+"('phenomenon', 'has input', 'n/a', 'chemical entity')",1,0
+"('phenomenon', 'interacts with', 'n/a', 'chemical entity')",13,0
+"('phenomenon', 'interacts with', 'n/a', 'gene or gene product')",5,0
+"('phenomenon', 'located in', 'n/a', 'anatomical entity')",209,0
+"('phenomenon', 'located in', 'n/a', 'cell')",53,0
+"('phenomenon', 'located in', 'n/a', 'cellular component')",3,0
+"('phenomenon', 'located in', 'n/a', 'gross anatomical structure')",536,0
+"('phenomenon', 'located in', 'n/a', 'information content entity')",3,0
+"('phenomenon', 'manifestation of', 'n/a', 'biological process')",3,0
+"('phenomenon', 'manifestation of', 'n/a', 'phenomenon')",1,0
+"('phenomenon', 'occurs in', 'n/a', 'agent')",1,0
+"('phenomenon', 'occurs in', 'n/a', 'anatomical entity')",6,0
+"('phenomenon', 'occurs in', 'n/a', 'biological entity')",1,0
+"('phenomenon', 'occurs in', 'n/a', 'cell')",1,0
+"('phenomenon', 'occurs in', 'n/a', 'chemical entity')",1,0
+"('phenomenon', 'occurs in', 'n/a', 'cohort')",48,0
+"('phenomenon', 'occurs in', 'n/a', 'disease or phenotypic feature')",12,0
+"('phenomenon', 'occurs in', 'n/a', 'gene or gene product')",7,0
+"('phenomenon', 'occurs in', 'n/a', 'genomic entity')",1,0
+"('phenomenon', 'occurs in', 'n/a', 'gross anatomical structure')",11,0
+"('phenomenon', 'occurs in', 'n/a', 'human')",2,0
+"('phenomenon', 'occurs in', 'n/a', 'organism taxon')",134,0
+"('phenomenon', 'occurs in', 'n/a', 'population of individual organisms')",26,0
+"('phenomenon', 'precedes', 'n/a', 'biological process')",4,0
+"('phenomenon', 'predisposes to condition', 'n/a', 'biological process')",2,0
+"('phenomenon', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",13,0
+"('phenomenon', 'predisposes to condition', 'n/a', 'information content entity')",1,0
+"('phenomenon', 'produces', 'n/a', 'anatomical entity')",4,0
+"('phenomenon', 'produces', 'n/a', 'chemical entity')",50,0
+"('phenomenon', 'produces', 'n/a', 'gene or gene product')",67,0
+"('phenomenon', 'related to', 'n/a', 'chemical entity')",17,0
+"('phenomenon', 'related to', 'n/a', 'clinical attribute')",1,0
+"('phenomenon', 'related to', 'n/a', 'disease or phenotypic feature')",263,0
+"('phenomenon', 'related to', 'n/a', 'gene or gene product')",2,0
+"('phenomenon', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",5,0
+"('physical entity', 'affects', 'n/a', 'anatomical entity')",1,0
+"('physical entity', 'affects', 'n/a', 'biological process')",5,0
+"('physical entity', 'affects', 'n/a', 'chemical entity')",11,0
+"('physical entity', 'affects', 'n/a', 'disease or phenotypic feature')",1,0
+"('physical entity', 'affects', 'n/a', 'gene or gene product')",2,0
+"('physical entity', 'causes', 'n/a', 'disease or phenotypic feature')",39,0
+"('physical entity', 'coexists with', 'n/a', 'chemical entity')",7,0
+"('physical entity', 'diagnoses', 'n/a', 'organism taxon')",4,0
+"('physical entity', 'disrupts', 'n/a', 'anatomical entity')",1,0
+"('physical entity', 'disrupts', 'n/a', 'biological process')",1,0
+"('physical entity', 'disrupts', 'n/a', 'disease or phenotypic feature')",1,0
+"('physical entity', 'has input', 'n/a', 'chemical entity')",206,0
+"('physical entity', 'has input', 'n/a', 'device')",289,0
+"('physical entity', 'has input', 'n/a', 'gene or gene product')",14,0
+"('physical entity', 'has input', 'n/a', 'physical entity')",83,0
+"('physical entity', 'has input', 'n/a', 'procedure')",1,0
+"('physical entity', 'has part', 'n/a', 'gross anatomical structure')",1,0
+"('physical entity', 'interacts with', 'n/a', 'chemical entity')",17,0
+"('physical entity', 'located in', 'n/a', 'gross anatomical structure')",3,0
+"('physical entity', 'located in', 'n/a', 'organism taxon')",1,0
+"('physical entity', 'related to', 'n/a', 'disease or phenotypic feature')",3,0
+"('physical entity', 'treats or applied or studied to treat', 'n/a', 'anatomical entity')",1,0
+"('physical entity', 'treats or applied or studied to treat', 'n/a', 'cohort')",19,0
+"('physical entity', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",235,0
+"('physical entity', 'treats or applied or studied to treat', 'n/a', 'gross anatomical structure')",6,0
+"('physical entity', 'treats or applied or studied to treat', 'n/a', 'human')",1,0
+"('physical entity', 'treats or applied or studied to treat', 'n/a', 'organism taxon')",1,0
+"('physical entity', 'treats or applied or studied to treat', 'n/a', 'population of individual organisms')",7,0
+"('physiological process', 'affects', 'n/a', 'biological process')",32,0
+"('physiological process', 'affects', 'n/a', 'cell')",5,0
+"('physiological process', 'affects', 'n/a', 'chemical entity')",1,0
+"('physiological process', 'affects', 'n/a', 'disease or phenotypic feature')",14,0
+"('physiological process', 'affects', 'n/a', 'gene or gene product')",1,0
+"('physiological process', 'affects', 'n/a', 'organism taxon')",1,0
+"('physiological process', 'affects', 'n/a', 'phenomenon')",5,0
+"('physiological process', 'causes', 'n/a', 'biological process')",2,0
+"('physiological process', 'coexists with', 'n/a', 'biological process')",18,0
+"('physiological process', 'located in', 'n/a', 'cell')",58,0
+"('physiological process', 'located in', 'n/a', 'cellular component')",1,0
+"('physiological process', 'occurs in', 'n/a', 'disease or phenotypic feature')",10,0
+"('physiological process', 'occurs in', 'n/a', 'organism taxon')",1,0
+"('physiological process', 'produces', 'n/a', 'chemical entity')",1,0
+"('polypeptide', 'affects', 'n/a', 'activity')",4,0
+"('polypeptide', 'affects', 'n/a', 'anatomical entity')",33,0
+"('polypeptide', 'affects', 'n/a', 'biological entity')",2,0
+"('polypeptide', 'affects', 'n/a', 'biological process')",838,0
+"('polypeptide', 'affects', 'n/a', 'cell')",208,0
+"('polypeptide', 'affects', 'n/a', 'cellular component')",34,0
+"('polypeptide', 'affects', 'n/a', 'chemical entity')",139,0
+"('polypeptide', 'affects', 'n/a', 'disease or phenotypic feature')",561,0
+"('polypeptide', 'affects', 'n/a', 'gene or gene product')",867,0
+"('polypeptide', 'affects', 'n/a', 'genomic entity')",2,0
+"('polypeptide', 'affects', 'n/a', 'gross anatomical structure')",100,0
+"('polypeptide', 'affects', 'n/a', 'information content entity')",4,0
+"('polypeptide', 'affects', 'n/a', 'molecular activity')",97,0
+"('polypeptide', 'affects', 'n/a', 'organism taxon')",7,0
+"('polypeptide', 'affects', 'n/a', 'phenomenon')",52,0
+"('polypeptide', 'affects', 'n/a', 'physiological process')",2,0
+"('polypeptide', 'affects', 'n/a', 'polypeptide')",9,0
+"('polypeptide', 'affects', 'n/a', 'procedure')",5,0
+"('polypeptide', 'causes', 'n/a', 'biological process')",1,0
+"('polypeptide', 'causes', 'n/a', 'disease or phenotypic feature')",292,0
+"('polypeptide', 'causes', 'n/a', 'information content entity')",2,0
+"('polypeptide', 'causes', 'n/a', 'phenomenon')",3,0
+"('polypeptide', 'close match', 'n/a', 'gene or gene product')",1,0
+"('polypeptide', 'coexists with', 'n/a', 'cellular component')",1,0
+"('polypeptide', 'coexists with', 'n/a', 'chemical entity')",158,0
+"('polypeptide', 'coexists with', 'n/a', 'gene or gene product')",172,0
+"('polypeptide', 'coexists with', 'n/a', 'polypeptide')",12,0
+"('polypeptide', 'derives from', 'n/a', 'chemical entity')",32,0
+"('polypeptide', 'derives from', 'n/a', 'gene or gene product')",9,0
+"('polypeptide', 'derives from', 'n/a', 'genomic entity')",1,0
+"('polypeptide', 'derives from', 'n/a', 'polypeptide')",4,0
+"('polypeptide', 'disrupts', 'n/a', 'activity')",1,0
+"('polypeptide', 'disrupts', 'n/a', 'anatomical entity')",6,0
+"('polypeptide', 'disrupts', 'n/a', 'biological process')",169,0
+"('polypeptide', 'disrupts', 'n/a', 'cell')",44,0
+"('polypeptide', 'disrupts', 'n/a', 'cellular component')",9,0
+"('polypeptide', 'disrupts', 'n/a', 'disease or phenotypic feature')",101,0
+"('polypeptide', 'disrupts', 'n/a', 'gross anatomical structure')",20,0
+"('polypeptide', 'disrupts', 'n/a', 'information content entity')",2,0
+"('polypeptide', 'disrupts', 'n/a', 'molecular activity')",27,0
+"('polypeptide', 'disrupts', 'n/a', 'organism taxon')",1,0
+"('polypeptide', 'disrupts', 'n/a', 'phenomenon')",4,0
+"('polypeptide', 'disrupts', 'n/a', 'procedure')",2,0
+"('polypeptide', 'exacerbates condition', 'n/a', 'biological process')",1,0
+"('polypeptide', 'has part', 'n/a', 'chemical entity')",2,0
+"('polypeptide', 'has part', 'n/a', 'gene or gene product')",1,0
+"('polypeptide', 'interacts with', 'n/a', 'cell')",3,0
+"('polypeptide', 'interacts with', 'n/a', 'chemical entity')",417,0
+"('polypeptide', 'interacts with', 'n/a', 'gene or gene product')",802,0
+"('polypeptide', 'interacts with', 'n/a', 'genomic entity')",5,0
+"('polypeptide', 'interacts with', 'n/a', 'polypeptide')",54,0
+"('polypeptide', 'located in', 'n/a', 'anatomical entity')",200,0
+"('polypeptide', 'located in', 'n/a', 'cell')",8,0
+"('polypeptide', 'located in', 'n/a', 'cellular component')",6,0
+"('polypeptide', 'located in', 'n/a', 'chemical entity')",1,0
+"('polypeptide', 'located in', 'n/a', 'gross anatomical structure')",228,0
+"('polypeptide', 'located in', 'n/a', 'information content entity')",1,0
+"('polypeptide', 'located in', 'n/a', 'organism taxon')",145,0
+"('polypeptide', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",195,0
+"('polypeptide', 'related to', 'n/a', 'disease or phenotypic feature')",1072,0
+"('polypeptide', 'related to', 'n/a', 'information content entity')",1,0
+"('polypeptide', 'treats or applied or studied to treat', 'n/a', 'agent')",1,0
+"('polypeptide', 'treats or applied or studied to treat', 'n/a', 'biological entity')",3,0
+"('polypeptide', 'treats or applied or studied to treat', 'n/a', 'cell')",283,0
+"('polypeptide', 'treats or applied or studied to treat', 'n/a', 'cellular component')",3,0
+"('polypeptide', 'treats or applied or studied to treat', 'n/a', 'cohort')",1,0
+"('polypeptide', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",24,0
+"('polypeptide', 'treats or applied or studied to treat', 'n/a', 'organism taxon')",5,0
+"('polypeptide', 'treats or applied or studied to treat', 'n/a', 'population of individual organisms')",1,0
+"('population of individual organisms', 'coexists with', 'n/a', 'chemical entity')",1,0
+"('population of individual organisms', 'coexists with', 'n/a', 'disease or phenotypic feature')",4,0
+"('population of individual organisms', 'diagnoses', 'n/a', 'disease or phenotypic feature')",9,0
+"('population of individual organisms', 'has input', 'n/a', 'device')",54,0
+"('population of individual organisms', 'has input', 'n/a', 'physical entity')",5,0
+"('population of individual organisms', 'has part', 'n/a', 'anatomical entity')",114,0
+"('population of individual organisms', 'has part', 'n/a', 'cell')",33,0
+"('population of individual organisms', 'has part', 'n/a', 'chemical entity')",63,0
+"('population of individual organisms', 'has part', 'n/a', 'disease or phenotypic feature')",50,0
+"('population of individual organisms', 'has part', 'n/a', 'gene or gene product')",111,0
+"('population of individual organisms', 'has part', 'n/a', 'genomic entity')",6,0
+"('population of individual organisms', 'has part', 'n/a', 'gross anatomical structure')",192,0
+"('population of individual organisms', 'has part', 'n/a', 'polypeptide')",2,0
+"('population of individual organisms', 'interacts with', 'n/a', 'agent')",1,0
+"('population of individual organisms', 'interacts with', 'n/a', 'cohort')",11,0
+"('population of individual organisms', 'interacts with', 'n/a', 'organism taxon')",1,0
+"('population of individual organisms', 'interacts with', 'n/a', 'population of individual organisms')",2,0
+"('population of individual organisms', 'occurs in', 'n/a', 'cohort')",20,0
+"('population of individual organisms', 'occurs in', 'n/a', 'disease or phenotypic feature')",1,0
+"('population of individual organisms', 'occurs in', 'n/a', 'gross anatomical structure')",1,0
+"('population of individual organisms', 'occurs in', 'n/a', 'population of individual organisms')",24,0
+"('population of individual organisms', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",2,0
+"('population of individual organisms', 'treats or applied or studied to treat', 'n/a', 'cohort')",1,0
+"('population of individual organisms', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",3,0
+"('population of individual organisms', 'treats or applied or studied to treat', 'n/a', 'organism taxon')",1,0
+"('procedure', 'affects', 'n/a', 'activity')",147,0
+"('procedure', 'affects', 'n/a', 'anatomical entity')",24,0
+"('procedure', 'affects', 'n/a', 'behavior')",10,0
+"('procedure', 'affects', 'n/a', 'biological entity')",22,0
+"('procedure', 'affects', 'n/a', 'biological process')",4788,0
+"('procedure', 'affects', 'n/a', 'cell')",2,0
+"('procedure', 'affects', 'n/a', 'clinical attribute')",25,0
+"('procedure', 'affects', 'n/a', 'disease or phenotypic feature')",4872,0
+"('procedure', 'affects', 'n/a', 'gene or gene product')",2,0
+"('procedure', 'affects', 'n/a', 'gross anatomical structure')",1,0
+"('procedure', 'affects', 'n/a', 'information content entity')",67,0
+"('procedure', 'affects', 'n/a', 'molecular activity')",351,0
+"('procedure', 'affects', 'n/a', 'phenomenon')",186,0
+"('procedure', 'affects', 'n/a', 'physiological process')",1,0
+"('procedure', 'affects', 'n/a', 'procedure')",11,0
+"('procedure', 'causes', 'n/a', 'biological process')",2,0
+"('procedure', 'causes', 'n/a', 'clinical attribute')",4,0
+"('procedure', 'causes', 'n/a', 'disease or phenotypic feature')",5763,0
+"('procedure', 'causes', 'n/a', 'information content entity')",3,0
+"('procedure', 'causes', 'n/a', 'procedure')",2,0
+"('procedure', 'close match', 'n/a', 'chemical entity')",12,0
+"('procedure', 'close match', 'n/a', 'gene or gene product')",3,0
+"('procedure', 'close match', 'n/a', 'information content entity')",3,0
+"('procedure', 'close match', 'n/a', 'procedure')",41,0
+"('procedure', 'coexists with', 'n/a', 'activity')",8,0
+"('procedure', 'coexists with', 'n/a', 'behavior')",1,0
+"('procedure', 'coexists with', 'n/a', 'biological process')",33,0
+"('procedure', 'coexists with', 'n/a', 'clinical attribute')",2,0
+"('procedure', 'coexists with', 'n/a', 'disease or phenotypic feature')",130,0
+"('procedure', 'coexists with', 'n/a', 'molecular activity')",3,0
+"('procedure', 'coexists with', 'n/a', 'procedure')",22,0
+"('procedure', 'diagnoses', 'n/a', 'activity')",7,0
+"('procedure', 'diagnoses', 'n/a', 'anatomical entity')",23,0
+"('procedure', 'diagnoses', 'n/a', 'behavior')",5,0
+"('procedure', 'diagnoses', 'n/a', 'biological entity')",83,0
+"('procedure', 'diagnoses', 'n/a', 'biological process')",9,0
+"('procedure', 'diagnoses', 'n/a', 'chemical entity')",1,0
+"('procedure', 'diagnoses', 'n/a', 'clinical attribute')",24,0
+"('procedure', 'diagnoses', 'n/a', 'disease or phenotypic feature')",25713,0
+"('procedure', 'diagnoses', 'n/a', 'event')",1,0
+"('procedure', 'diagnoses', 'n/a', 'gross anatomical structure')",6,0
+"('procedure', 'diagnoses', 'n/a', 'information content entity')",86,0
+"('procedure', 'diagnoses', 'n/a', 'organism taxon')",215,0
+"('procedure', 'diagnoses', 'n/a', 'population of individual organisms')",2,0
+"('procedure', 'diagnoses', 'n/a', 'procedure')",30,0
+"('procedure', 'disrupts', 'n/a', 'anatomical entity')",1,0
+"('procedure', 'disrupts', 'n/a', 'biological process')",1,0
+"('procedure', 'disrupts', 'n/a', 'disease or phenotypic feature')",82,0
+"('procedure', 'disrupts', 'n/a', 'gross anatomical structure')",9,0
+"('procedure', 'exacerbates condition', 'n/a', 'activity')",1,0
+"('procedure', 'exacerbates condition', 'n/a', 'biological process')",5,0
+"('procedure', 'exacerbates condition', 'n/a', 'disease or phenotypic feature')",53,0
+"('procedure', 'has input', 'n/a', 'anatomical entity')",1,0
+"('procedure', 'has input', 'n/a', 'cell')",4,0
+"('procedure', 'has input', 'n/a', 'cellular component')",1,0
+"('procedure', 'has input', 'n/a', 'chemical entity')",20838,0
+"('procedure', 'has input', 'n/a', 'device')",5314,0
+"('procedure', 'has input', 'n/a', 'disease or phenotypic feature')",4,0
+"('procedure', 'has input', 'n/a', 'gene or gene product')",8407,0
+"('procedure', 'has input', 'n/a', 'genomic entity')",164,0
+"('procedure', 'has input', 'n/a', 'information content entity')",16,0
+"('procedure', 'has input', 'n/a', 'molecular activity')",16,0
+"('procedure', 'has input', 'n/a', 'organism taxon')",7,0
+"('procedure', 'has input', 'n/a', 'physical entity')",470,0
+"('procedure', 'has input', 'n/a', 'polypeptide')",16,0
+"('procedure', 'has input', 'n/a', 'population of individual organisms')",3,0
+"('procedure', 'has input', 'n/a', 'procedure')",178,0
+"('procedure', 'has input', 'n/a', 'publication')",9,0
+"('procedure', 'located in', 'n/a', 'agent')",139,0
+"('procedure', 'located in', 'n/a', 'anatomical entity')",6663,0
+"('procedure', 'located in', 'n/a', 'cell')",668,0
+"('procedure', 'located in', 'n/a', 'cellular component')",354,0
+"('procedure', 'located in', 'n/a', 'chemical entity')",10,0
+"('procedure', 'located in', 'n/a', 'clinical attribute')",3,0
+"('procedure', 'located in', 'n/a', 'device')",1,0
+"('procedure', 'located in', 'n/a', 'disease or phenotypic feature')",7,0
+"('procedure', 'located in', 'n/a', 'gross anatomical structure')",9242,0
+"('procedure', 'located in', 'n/a', 'information content entity')",72,0
+"('procedure', 'located in', 'n/a', 'organism taxon')",14,0
+"('procedure', 'located in', 'n/a', 'physical entity')",1,0
+"('procedure', 'located in', 'n/a', 'publication')",28,0
+"('procedure', 'occurs in', 'n/a', 'agent')",1,0
+"('procedure', 'occurs in', 'n/a', 'chemical entity')",6,0
+"('procedure', 'occurs in', 'n/a', 'cohort')",11,0
+"('procedure', 'occurs in', 'n/a', 'disease or phenotypic feature')",3,0
+"('procedure', 'occurs in', 'n/a', 'gene or gene product')",133,0
+"('procedure', 'occurs in', 'n/a', 'genomic entity')",1,0
+"('procedure', 'occurs in', 'n/a', 'gross anatomical structure')",6,0
+"('procedure', 'occurs in', 'n/a', 'organism taxon')",2,0
+"('procedure', 'occurs in', 'n/a', 'population of individual organisms')",15,0
+"('procedure', 'precedes', 'n/a', 'activity')",86,0
+"('procedure', 'precedes', 'n/a', 'anatomical entity')",7,0
+"('procedure', 'precedes', 'n/a', 'behavior')",2,0
+"('procedure', 'precedes', 'n/a', 'biological process')",43,0
+"('procedure', 'precedes', 'n/a', 'chemical entity')",90,0
+"('procedure', 'precedes', 'n/a', 'clinical attribute')",12,0
+"('procedure', 'precedes', 'n/a', 'device')",2,0
+"('procedure', 'precedes', 'n/a', 'disease or phenotypic feature')",613,0
+"('procedure', 'precedes', 'n/a', 'gene or gene product')",23,0
+"('procedure', 'precedes', 'n/a', 'information content entity')",57,0
+"('procedure', 'precedes', 'n/a', 'molecular activity')",6,0
+"('procedure', 'precedes', 'n/a', 'procedure')",11020,0
+"('procedure', 'precedes', 'n/a', 'publication')",77,0
+"('procedure', 'predisposes to condition', 'n/a', 'anatomical entity')",1,0
+"('procedure', 'predisposes to condition', 'n/a', 'clinical attribute')",1,0
+"('procedure', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",1364,0
+"('procedure', 'predisposes to condition', 'n/a', 'information content entity')",3,0
+"('procedure', 'produces', 'n/a', 'clinical attribute')",1,0
+"('procedure', 'related to', 'n/a', 'biological process')",13,0
+"('procedure', 'related to', 'n/a', 'information content entity')",1,0
+"('procedure', 'related to', 'n/a', 'molecular activity')",1,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'agent')",20,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'anatomical entity')",28,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'behavior')",4,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'biological entity')",10,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'biological process')",1,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'clinical attribute')",11,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'cohort')",2374,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",55361,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'event')",1,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'gene or gene product')",2,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'gross anatomical structure')",167,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'human')",11,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'information content entity')",53,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'organism taxon')",344,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'phenomenon')",3,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'population of individual organisms')",1330,0
+"('procedure', 'treats or applied or studied to treat', 'n/a', 'procedure')",1,0
+"('publication', 'affects', 'n/a', 'chemical entity')",2,0
+"('publication', 'affects', 'n/a', 'disease or phenotypic feature')",1,0
+"('publication', 'affects', 'n/a', 'gene or gene product')",9,0
+"('publication', 'causes', 'n/a', 'disease or phenotypic feature')",19,0
+"('publication', 'coexists with', 'n/a', 'chemical entity')",3,0
+"('publication', 'coexists with', 'n/a', 'gene or gene product')",1,0
+"('publication', 'diagnoses', 'n/a', 'activity')",1,0
+"('publication', 'diagnoses', 'n/a', 'biological process')",1,0
+"('publication', 'diagnoses', 'n/a', 'clinical attribute')",2,0
+"('publication', 'diagnoses', 'n/a', 'disease or phenotypic feature')",389,0
+"('publication', 'diagnoses', 'n/a', 'information content entity')",3,0
+"('publication', 'diagnoses', 'n/a', 'procedure')",1,0
+"('publication', 'has input', 'n/a', 'chemical entity')",32,0
+"('publication', 'has input', 'n/a', 'device')",8,0
+"('publication', 'has input', 'n/a', 'gene or gene product')",2,0
+"('publication', 'has input', 'n/a', 'physical entity')",3,0
+"('publication', 'has input', 'n/a', 'population of individual organisms')",1,0
+"('publication', 'interacts with', 'n/a', 'chemical entity')",3,0
+"('publication', 'interacts with', 'n/a', 'gene or gene product')",5,0
+"('publication', 'located in', 'n/a', 'agent')",3,0
+"('publication', 'located in', 'n/a', 'anatomical entity')",124,0
+"('publication', 'located in', 'n/a', 'cell')",187,0
+"('publication', 'located in', 'n/a', 'cellular component')",117,0
+"('publication', 'located in', 'n/a', 'chemical entity')",2,0
+"('publication', 'located in', 'n/a', 'disease or phenotypic feature')",1,0
+"('publication', 'located in', 'n/a', 'gross anatomical structure')",160,0
+"('publication', 'located in', 'n/a', 'information content entity')",8,0
+"('publication', 'located in', 'n/a', 'organism taxon')",2,0
+"('publication', 'occurs in', 'n/a', 'cohort')",1,0
+"('publication', 'occurs in', 'n/a', 'population of individual organisms')",3,0
+"('publication', 'precedes', 'n/a', 'procedure')",3,0
+"('publication', 'predisposes to condition', 'n/a', 'disease or phenotypic feature')",3,0
+"('publication', 'related to', 'n/a', 'disease or phenotypic feature')",16,0
+"('publication', 'treats or applied or studied to treat', 'n/a', 'cohort')",29,0
+"('publication', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",106,0
+"('publication', 'treats or applied or studied to treat', 'n/a', 'organism taxon')",2,0
+"('publication', 'treats or applied or studied to treat', 'n/a', 'population of individual organisms')",12,0

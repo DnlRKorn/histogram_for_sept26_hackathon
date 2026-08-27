@@ -1,0 +1,6 @@
+spqo,present_cnt,absent_cnt
+"('chemical entity', 'negatively correlated with', 'n/a', 'disease or phenotypic feature')",2,0
+"('chemical entity', 'positively correlated with', 'n/a', 'chemical entity')",44,0
+"('chemical entity', 'positively correlated with', 'n/a', 'disease or phenotypic feature')",47,0
+"('disease or phenotypic feature', 'positively correlated with', 'n/a', 'chemical entity')",42,0
+"('disease or phenotypic feature', 'positively correlated with', 'n/a', 'disease or phenotypic feature')",1,0

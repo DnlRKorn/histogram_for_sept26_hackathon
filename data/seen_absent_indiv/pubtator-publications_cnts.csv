@@ -1,0 +1,45 @@
+spqo,present_cnt,absent_cnt
+"('chemical entity', 'causes', 'n/a', 'disease or phenotypic feature')",674002,0
+"('chemical entity', 'causes', 'n/a', 'gene or gene product')",10,0
+"('chemical entity', 'negatively correlated with', 'n/a', 'chemical entity')",519498,0
+"('chemical entity', 'negatively correlated with', 'n/a', 'disease or phenotypic feature')",16,0
+"('chemical entity', 'negatively correlated with', 'n/a', 'gene or gene product')",795196,0
+"('chemical entity', 'pharmacologically interacts with', 'n/a', 'chemical entity')",5527,0
+"('chemical entity', 'pharmacologically interacts with', 'n/a', 'gene or gene product')",117,0
+"('chemical entity', 'physically interacts with', 'n/a', 'chemical entity')",6350,0
+"('chemical entity', 'physically interacts with', 'n/a', 'disease or phenotypic feature')",3,0
+"('chemical entity', 'physically interacts with', 'n/a', 'gene or gene product')",20999,0
+"('chemical entity', 'positively correlated with', 'n/a', 'chemical entity')",320767,0
+"('chemical entity', 'positively correlated with', 'n/a', 'disease or phenotypic feature')",14,0
+"('chemical entity', 'positively correlated with', 'n/a', 'gene or gene product')",584105,0
+"('chemical entity', 'related to', 'n/a', 'chemical entity')",792140,0
+"('chemical entity', 'related to', 'n/a', 'disease or phenotypic feature')",504989,0
+"('chemical entity', 'related to', 'n/a', 'gene or gene product')",831147,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",1205266,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'gene or gene product')",38,0
+"('disease or phenotypic feature', 'causes', 'n/a', 'disease or phenotypic feature')",128,0
+"('disease or phenotypic feature', 'negatively correlated with', 'n/a', 'chemical entity')",98,0
+"('disease or phenotypic feature', 'negatively correlated with', 'n/a', 'gene or gene product')",260599,0
+"('disease or phenotypic feature', 'pharmacologically interacts with', 'n/a', 'chemical entity')",1,0
+"('disease or phenotypic feature', 'physically interacts with', 'n/a', 'gene or gene product')",7,0
+"('disease or phenotypic feature', 'positively correlated with', 'n/a', 'chemical entity')",90,0
+"('disease or phenotypic feature', 'positively correlated with', 'n/a', 'gene or gene product')",335316,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'chemical entity')",162,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'disease or phenotypic feature')",73,0
+"('disease or phenotypic feature', 'related to', 'n/a', 'gene or gene product')",2015475,0
+"('disease or phenotypic feature', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",272,0
+"('gene or gene product', 'causes', 'n/a', 'disease or phenotypic feature')",32673,0
+"('gene or gene product', 'negatively correlated with', 'n/a', 'chemical entity')",14890,0
+"('gene or gene product', 'negatively correlated with', 'n/a', 'disease or phenotypic feature')",1,0
+"('gene or gene product', 'negatively correlated with', 'n/a', 'gene or gene product')",314823,0
+"('gene or gene product', 'pharmacologically interacts with', 'n/a', 'chemical entity')",110,0
+"('gene or gene product', 'pharmacologically interacts with', 'n/a', 'gene or gene product')",12,0
+"('gene or gene product', 'physically interacts with', 'n/a', 'chemical entity')",143,0
+"('gene or gene product', 'physically interacts with', 'n/a', 'gene or gene product')",74656,0
+"('gene or gene product', 'positively correlated with', 'n/a', 'chemical entity')",8691,0
+"('gene or gene product', 'positively correlated with', 'n/a', 'gene or gene product')",528363,0
+"('gene or gene product', 'related to', 'n/a', 'chemical entity')",19488,0
+"('gene or gene product', 'related to', 'n/a', 'disease or phenotypic feature')",23886,0
+"('gene or gene product', 'related to', 'n/a', 'gene or gene product')",945833,0
+"('gene or gene product', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",54026,0
+"('gene or gene product', 'treats or applied or studied to treat', 'n/a', 'gene or gene product')",3,0

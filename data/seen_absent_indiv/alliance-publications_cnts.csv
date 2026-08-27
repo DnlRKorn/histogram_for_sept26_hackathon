@@ -1,0 +1,4 @@
+spqo,present_cnt,absent_cnt
+"('gene or gene product', 'expressed in', 'n/a', 'anatomical entity')",162514,0
+"('gene or gene product', 'expressed in', 'n/a', 'cellular component')",6985,0
+"('gene or gene product', 'has phenotype', 'n/a', 'disease or phenotypic feature')",3069,0

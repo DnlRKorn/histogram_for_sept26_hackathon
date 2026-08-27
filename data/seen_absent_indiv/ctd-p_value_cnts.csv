@@ -1,0 +1,55 @@
+spqo,present_cnt,absent_cnt
+"('chemical entity', 'affects', 'causes', 'biological process')",0,84848
+"('chemical entity', 'affects', 'causes', 'cellular component')",0,446
+"('chemical entity', 'affects', 'causes', 'gene or gene product')",0,1531990
+"('chemical entity', 'affects', 'causes', 'molecular activity')",0,6992
+"('chemical entity', 'affects', 'causes', 'pathway')",0,725
+"('chemical entity', 'affects', 'n/a', 'biological process')",0,24880
+"('chemical entity', 'affects', 'n/a', 'cellular component')",0,72
+"('chemical entity', 'affects', 'n/a', 'gene or gene product')",0,231134
+"('chemical entity', 'affects', 'n/a', 'molecular activity')",0,315
+"('chemical entity', 'affects', 'n/a', 'pathway')",0,200
+"('chemical entity', 'affects sensitivity to', 'n/a', 'gene or gene product')",0,54
+"('chemical entity', 'associated with', 'n/a', 'biological process')",1497421,0
+"('chemical entity', 'associated with', 'n/a', 'cellular component')",170662,0
+"('chemical entity', 'associated with', 'n/a', 'molecular activity')",182682,0
+"('chemical entity', 'associated with', 'n/a', 'pathway')",360546,0
+"('chemical entity', 'correlated with', 'n/a', 'disease or phenotypic feature')",0,66956
+"('chemical entity', 'decreases sensitivity to', 'n/a', 'gene or gene product')",0,415
+"('chemical entity', 'increases sensitivity to', 'n/a', 'gene or gene product')",0,156
+"('chemical entity', 'negatively correlated with', 'n/a', 'biological process')",0,130
+"('chemical entity', 'negatively correlated with', 'n/a', 'disease or phenotypic feature')",0,495
+"('chemical entity', 'negatively correlated with', 'n/a', 'molecular activity')",0,4
+"('chemical entity', 'positively correlated with', 'n/a', 'biological process')",0,3101
+"('chemical entity', 'positively correlated with', 'n/a', 'cellular component')",0,13
+"('chemical entity', 'positively correlated with', 'n/a', 'disease or phenotypic feature')",0,4838
+"('chemical entity', 'positively correlated with', 'n/a', 'molecular activity')",0,57
+"('chemical entity', 'positively correlated with', 'n/a', 'pathway')",0,5
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",0,38156
+"('gene or gene product', 'affects', 'causes', 'biological process')",0,2038
+"('gene or gene product', 'affects', 'causes', 'cellular component')",0,11
+"('gene or gene product', 'affects', 'causes', 'chemical entity')",0,11426
+"('gene or gene product', 'affects', 'causes', 'gene or gene product')",0,22807
+"('gene or gene product', 'affects', 'causes', 'molecular activity')",0,157
+"('gene or gene product', 'affects', 'causes', 'pathway')",0,38
+"('gene or gene product', 'affects', 'n/a', 'biological process')",0,503
+"('gene or gene product', 'affects', 'n/a', 'cellular component')",0,4
+"('gene or gene product', 'affects', 'n/a', 'chemical entity')",0,6504
+"('gene or gene product', 'affects', 'n/a', 'gene or gene product')",0,1816
+"('gene or gene product', 'affects', 'n/a', 'molecular activity')",0,5
+"('gene or gene product', 'affects', 'n/a', 'pathway')",0,3
+"('gene or gene product', 'affects sensitivity to', 'n/a', 'chemical entity')",0,8544
+"('gene or gene product', 'affects sensitivity to', 'n/a', 'gene or gene product')",0,56
+"('gene or gene product', 'associated with', 'n/a', 'biological process')",50172,0
+"('gene or gene product', 'associated with', 'n/a', 'cellular component')",5083,0
+"('gene or gene product', 'associated with', 'n/a', 'molecular activity')",5361,0
+"('gene or gene product', 'associated with', 'n/a', 'pathway')",10856,0
+"('gene or gene product', 'correlated with', 'n/a', 'disease or phenotypic feature')",0,1400
+"('gene or gene product', 'decreases sensitivity to', 'n/a', 'chemical entity')",0,4920
+"('gene or gene product', 'decreases sensitivity to', 'n/a', 'gene or gene product')",0,150
+"('gene or gene product', 'increases sensitivity to', 'n/a', 'chemical entity')",0,4593
+"('gene or gene product', 'increases sensitivity to', 'n/a', 'gene or gene product')",0,66
+"('gene or gene product', 'negatively correlated with', 'n/a', 'disease or phenotypic feature')",0,1
+"('gene or gene product', 'positively correlated with', 'n/a', 'biological process')",0,1
+"('gene or gene product', 'positively correlated with', 'n/a', 'disease or phenotypic feature')",0,1
+"('gene or gene product', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",0,1052

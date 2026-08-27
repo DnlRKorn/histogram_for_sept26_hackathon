@@ -1,0 +1,4 @@
+spqo,present_cnt,absent_cnt
+"('chemical entity', 'applied to treat', 'n/a', 'disease or phenotypic feature')",0,66315
+"('chemical entity', 'contraindicated in', 'n/a', 'disease or phenotypic feature')",3436,477
+"('chemical entity', 'treats', 'n/a', 'disease or phenotypic feature')",5179,4

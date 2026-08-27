@@ -1,0 +1,10 @@
+spqo,present_cnt,absent_cnt
+"('chemical entity', 'affects', 'causes', 'gene or gene product')",639084,0
+"('chemical entity', 'contributes to', 'n/a', 'disease or phenotypic feature')",110391,0
+"('chemical entity', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",306752,0
+"('disease or phenotypic feature', 'contributes to', 'n/a', 'chemical entity')",20,0
+"('disease or phenotypic feature', 'contributes to', 'n/a', 'gene or gene product')",1,0
+"('gene or gene product', 'affects', 'causes', 'chemical entity')",400,0
+"('gene or gene product', 'affects', 'causes', 'gene or gene product')",387839,0
+"('gene or gene product', 'contributes to', 'n/a', 'disease or phenotypic feature')",11917,0
+"('gene or gene product', 'treats or applied or studied to treat', 'n/a', 'disease or phenotypic feature')",29102,0

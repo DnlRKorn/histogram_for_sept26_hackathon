@@ -1,0 +1,21 @@
+spqo,present_cnt,absent_cnt
+"('gene or gene product', 'active in', 'n/a', 'cellular component')",95193,0
+"('gene or gene product', 'acts upstream of', 'n/a', 'biological process')",2240,0
+"('gene or gene product', 'acts upstream of', 'n/a', 'pathway')",63,0
+"('gene or gene product', 'acts upstream of negative effect', 'n/a', 'biological process')",108,0
+"('gene or gene product', 'acts upstream of negative effect', 'n/a', 'pathway')",33,0
+"('gene or gene product', 'acts upstream of or within', 'n/a', 'biological process')",106407,0
+"('gene or gene product', 'acts upstream of or within', 'n/a', 'pathway')",6278,0
+"('gene or gene product', 'acts upstream of or within negative effect', 'n/a', 'biological process')",129,0
+"('gene or gene product', 'acts upstream of or within negative effect', 'n/a', 'pathway')",10,0
+"('gene or gene product', 'acts upstream of or within positive effect', 'n/a', 'biological process')",311,0
+"('gene or gene product', 'acts upstream of or within positive effect', 'n/a', 'pathway')",37,0
+"('gene or gene product', 'acts upstream of positive effect', 'n/a', 'biological process')",379,0
+"('gene or gene product', 'acts upstream of positive effect', 'n/a', 'pathway')",25,0
+"('gene or gene product', 'colocalizes with', 'n/a', 'cellular component')",2899,0
+"('gene or gene product', 'contributes to', 'n/a', 'molecular activity')",5550,0
+"('gene or gene product', 'enables', 'n/a', 'molecular activity')",722197,0
+"('gene or gene product', 'involved in', 'n/a', 'biological process')",557768,0
+"('gene or gene product', 'involved in', 'n/a', 'pathway')",43563,0
+"('gene or gene product', 'located in', 'n/a', 'cellular component')",518564,0
+"('gene or gene product', 'part of', 'n/a', 'cellular component')",73653,0

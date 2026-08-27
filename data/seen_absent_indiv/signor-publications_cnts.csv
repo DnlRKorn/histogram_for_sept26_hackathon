@@ -1,0 +1,9 @@
+spqo,present_cnt,absent_cnt
+"('chemical entity', 'affects', 'causes', 'gene or gene product')",2335,0
+"('chemical entity', 'affects', 'n/a', 'chemical entity')",413,0
+"('chemical entity', 'directly physically interacts with', 'causes', 'gene or gene product')",2259,0
+"('chemical entity', 'directly physically interacts with', 'n/a', 'chemical entity')",411,0
+"('gene or gene product', 'affects', 'causes', 'chemical entity')",72,0
+"('gene or gene product', 'directly physically interacts with', 'causes', 'chemical entity')",72,0
+"('gene or gene product', 'directly physically interacts with', 'causes', 'gene or gene product')",17489,0
+"('gene or gene product', 'regulates', 'causes', 'gene or gene product')",20580,0
